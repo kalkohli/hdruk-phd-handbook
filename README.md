@@ -8,7 +8,7 @@ Handbook for the HDRUK-Turing PhD Programme in Health Data Science.
 
 2. [Programme Background](background.md)
 
-3. [Programme Details](overview.md)
+3. [Programme Details](programme.md)
 
 4. [Staff](staff.md)
 
