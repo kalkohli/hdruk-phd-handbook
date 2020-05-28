@@ -1,0 +1,106 @@
+{
+  
+  "0": {
+    "title": "Administration",
+    "content": "Administration .",
+    "url": "http://localhost:4000/course_docs/admin.html",
+    "relUrl": "/course_docs/admin.html"
+  }
+  ,"1": {
+    "title": "Background",
+    "content": "Background . History . In 2019, Health Data Research UK (HDRUK) and the Alan Turing Institute (Turing) decided to combined forces to submit an ambitious application for a PhD Programme in Health Data Science to the Wellcome Trust led by Professors Peter Diggle and Christopher Yau. . Our aim was to create a unique national PhD programme, formed from a distributed network of students based across an HDRUK/Turing university partnership network, which adheres to HDRUK’s “One Institute” strategy which aims to unite the UK’s health data to enable discoveries that improve people’s lives. We believe that collaborations and partnerships are vital to ensuring that health data is used effectively and this is a philosophy that we will instill in our PhD cohorts. . After a rigourous assessment by an international panel, our application was accepted for funding and we began our first recruitment for PhD students at the end of 2019. . University Partners . Our programme is delivered in collaboration with seven university partners: . Queen’s University Belfast | University of Birmingham | University of Cambridge | University of Edinburgh | University of Oxford | University of Manchester | University College London | . Students will be registered at one of our partner universities during their studies and all students will undertake training courses and activities delivered by each university. .",
+    "url": "http://localhost:4000/course_docs/background.html",
+    "relUrl": "/course_docs/background.html"
+  }
+  ,"2": {
+    "title": "Facilities",
+    "content": "Facilities .",
+    "url": "http://localhost:4000/course_docs/facilities.html",
+    "relUrl": "/course_docs/facilities.html"
+  }
+  ,"3": {
+    "title": "Introduction",
+    "content": "Introduction . “This PhD programme is a big step forward in our ambition to meet the UK’s need for trained health data scientists.” – Professor Peter Diggle, Programme Director . We are very excited to welcome you to the start of your doctoral studies with us at Health Data Research UK. . “Embedding our PhD students within an extensive cross-sector, multi-disciplinary collaborative network will enable them to address the greatest challenges in implementing health data science at scale.” – Professor Christopher Yau, Programme Co-Director .",
+    "url": "http://localhost:4000/course_docs/introduction.html",
+    "relUrl": "/course_docs/introduction.html"
+  }
+  ,"4": {
+    "title": "Feedback",
+    "content": "Feedback, monitoring, assessment .",
+    "url": "http://localhost:4000/course_docs/monitoring.html",
+    "relUrl": "/course_docs/monitoring.html"
+  }
+  ,"5": {
+    "title": "Choosing your PhD",
+    "content": "Choosing your PhD .",
+    "url": "http://localhost:4000/course_docs/phd-choice.html",
+    "relUrl": "/course_docs/phd-choice.html"
+  }
+  ,"6": {
+    "title": "Programme Details",
+    "content": "The Programme . This page describes the overall programme structure. It is split into two parts: . Year 1 training programme . Year 2-4 research project .",
+    "url": "http://localhost:4000/course_docs/programme/programme.html",
+    "relUrl": "/course_docs/programme/programme.html"
+  }
+  ,"7": {
+    "title": "Progression",
+    "content": "Progression .",
+    "url": "http://localhost:4000/course_docs/progression.html",
+    "relUrl": "/course_docs/progression.html"
+  }
+  ,"8": {
+    "title": "Resources",
+    "content": "Resources .",
+    "url": "http://localhost:4000/course_docs/resources.html",
+    "relUrl": "/course_docs/resources.html"
+  }
+  ,"9": {
+    "title": "Staff",
+    "content": "Staff . Programme Staff . Name Role Institution Link . Peter Diggle | Director | Lancaster | Link | . Christopher Yau | Co-Director | Manchester | Link | . Kal Kohli | Doctoral Programme Coordinator | Turing | Link | . Amy Gallimore | Recruitment Coordinator | Turing | Link | . Executive Board . Name Institution Link . Mark Lawler | Belfast | Link | . Georgios Gkoutos | Birmingham | Link | . Iain Styles | Birmingham | Link | . Sylvia Richardson | Cambridge | Link | . Angela Wood | Cambridge | Link | . Miguel Bernabeu | Edinburgh | Link | . Catalina Vallejos | Edinburgh | Link | . Ben Cairns | Oxford | Link | . Niels Peek | Manchester | Link | . Paul Taylor | UCL | Link | . Ioanna Manolopoulou | UCL | Link | . Ben Murton | Turing | Link | . Kirstie Whitaker | Turing | Link | .",
+    "url": "http://localhost:4000/course_docs/staff.html",
+    "relUrl": "/course_docs/staff.html"
+  }
+  ,"10": {
+    "title": "Student Support",
+    "content": "Student Support .",
+    "url": "http://localhost:4000/course_docs/support.html",
+    "relUrl": "/course_docs/support.html"
+  }
+  ,"11": {
+    "title": "Timetable",
+    "content": "Timetable .",
+    "url": "http://localhost:4000/course_docs/timetable.html",
+    "relUrl": "/course_docs/timetable.html"
+  }
+  ,"12": {
+    "title": "Post Year 1 Training",
+    "content": "After the first year … .",
+    "url": "http://localhost:4000/course_docs/training.html",
+    "relUrl": "/course_docs/training.html"
+  }
+  ,"13": {
+    "title": "Year 1",
+    "content": "Year 1 Training Programme . . Core Courses | Immersion Weeks | Mini-projects | Choosing a PhD project/supervisors | Assessment | . Core Courses . The aim of core courses is to … . Immersion Weeks . The aim of immersion weeks is to … . Mini-projects . Students will undertake … . Choosing a PhD project/supervisors . Students must define a PhD research topic and supervisory team … . Assessment . Progression to Years 2-4 will require … .",
+    "url": "http://localhost:4000/course_docs/programme/year1.html",
+    "relUrl": "/course_docs/programme/year1.html"
+  }
+  ,"14": {
+    "title": "Year 2-4",
+    "content": "Year 2-4 Training Programme . . Beginning your PhD | Ongoing Training | . After your doctoral research project has begun … . Beginning your PhD . At the start of Year 2 … . Ongoing Training . Students will undertake a bespoke training programme … .",
+    "url": "http://localhost:4000/course_docs/programme/year24.html",
+    "relUrl": "/course_docs/programme/year24.html"
+  }
+  ,"15": {
+    "title": "",
+    "content": "",
+    "url": "http://localhost:4000/images/test.html",
+    "relUrl": "/images/test.html"
+  }
+  ,"16": {
+    "title": "Student Handbook",
+    "content": "Student Handbook . This is a student handbook for the HDRUK-Turing PhD Programme in Health Data Science. Information contained within here is only appropriate to students registered on the course. . Contents . Introduction A word from the Directors about the programme, its mission and our expectations of our students. . Programme Background Overview of the programme and its history. . Programme Details Detailed information about the programme and its training elements. . Staff Information about the people who run the programme. . Choosing your PhD Details about the PhD project selection process. . Feedback, monitoring, assessment Information about how we will monitor and assess your progress. . Progression Requirements that you will need to maintain during your PhD. . After the first year … Information about how we will support you after Year One of the programme. . Resources Details about the resources available to you for your research and training. . Administrative Matters Information about the administrative support available to you. . Student Support Details about how we will try to support you during your studies. . Facilities Scientific facilities and resources that maybe available to you during your PhD. . Timetable A detailed timetable of the Year One training programme. .",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  }
+  
+}
