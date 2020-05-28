@@ -9,6 +9,9 @@ has_children: true
 
 ## Programme Staff
 
+These are the team responsible for the day-to-day running of the programme.
+
+
 | Name        | Role           | Institution | Link  |
 | ------------- |----------| -------------| -----|
 | Peter Diggle      | Director | Lancaster | [Link](https://www.lancaster.ac.uk/people-profiles/peter-diggle) |
@@ -18,6 +21,8 @@ has_children: true
 
 
 ## Executive Board
+
+A panel consisting of representatives from our University Partners and the Alan Turing Institute who advise on the programme implementation and support the development of recruitment, training and research activities.
 
 | Name    | Institution | Link  |
 | ------- | ----------| -----|
