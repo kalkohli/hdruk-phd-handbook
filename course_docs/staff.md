@@ -26,7 +26,7 @@ A panel consisting of representatives from our University Partners and the Alan 
 
 | Name    | Institution | Link  |
 | ------- | ----------| -----|
-| Mark Lawler   | Belfast | [Link](https://pure.qub.ac.uk/en/persons/mark-lawler) |
+| Mark Lawler   | Queen's Belfast | [Link](https://pure.qub.ac.uk/en/persons/mark-lawler) |
 | Georgios Gkoutos  | Birmingham | [Link](https://www.birmingham.ac.uk/staff/profiles/cancer-genomic/gkoutos-georgios.aspx) |
 | Iain Styles | Birmingham | [Link](https://www.birmingham.ac.uk/staff/profiles/computer-science/styles-iain.aspx) |
 | Sylvia Richardson  | Cambridge | [Link](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/n-to-s/sylvia-richardson/) |
