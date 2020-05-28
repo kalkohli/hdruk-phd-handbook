@@ -3,6 +3,7 @@ theme: just-the-docs
 title: HDRUK-Turing PhD Programme in Health Data Science
 description: PhD Programme Student Handbook
 logo: images/hdruk-logo.png
+remote_theme: pmarsceill/just-the-docs
 
 # Enable or disable the site search
 # Supports true (default) or false
