@@ -13,4 +13,6 @@ This page describes the overall programme structure. It is split into two parts:
 
 [**Year 2-4 research project**](year24.md) 
 
+[**Course List**](courses)
+
 

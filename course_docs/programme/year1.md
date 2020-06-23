@@ -20,6 +20,8 @@ nav_order: 1
 
 The aim of core courses is to ...
 
+[C2: Probability & Statistics](courses/c2probstats)
+
 ## Immersion Weeks 
 
 The aim of immersion weeks is to ...
