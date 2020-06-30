@@ -1,154 +1,530 @@
-{
-  
-  "0": {
+{"0": {
+    "doc": "Administration",
     "title": "Administration",
-    "content": "Administration .",
-    "url": "/course_docs/admin.html",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/admin.html",
     "relUrl": "/course_docs/admin.html"
-  }
-  ,"1": {
+  },"1": {
+    "doc": "Background",
     "title": "Background",
-    "content": "Background . History . In 2019, Health Data Research UK (HDRUK) and the Alan Turing Institute (Turing) decided to combined forces to submit an ambitious application for a PhD Programme in Health Data Science to the Wellcome Trust led by Professors Peter Diggle and Christopher Yau. . Our aim was to create a unique national PhD programme, formed from a distributed network of students based across an HDRUK/Turing university partnership network, which adheres to HDRUK’s “One Institute” strategy which aims to unite the UK’s health data to enable discoveries that improve people’s lives. We believe that collaborations and partnerships are vital to ensuring that health data is used effectively and this is a philosophy that we will instill in our PhD cohorts. . After a rigourous assessment by an international panel, our application was accepted for funding and we began our first recruitment for PhD students at the end of 2019. . University Partners . Our programme is delivered in collaboration with seven university partners: . Queen’s University Belfast | University of Birmingham | University of Cambridge | University of Edinburgh | University of Oxford | University of Manchester | University College London | . Students will be registered at one of our partner universities during their studies and all students will undertake training courses and activities delivered by each university. .",
-    "url": "/course_docs/background.html",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/background.html",
     "relUrl": "/course_docs/background.html"
-  }
-  ,"2": {
+  },"2": {
+    "doc": "Background",
+    "title": "History",
+    "content": "In 2019, Health Data Research UK (HDRUK) and the Alan Turing Institute (Turing) decided to combined forces to submit an ambitious application for a PhD Programme in Health Data Science to the Wellcome Trust led by Professors Peter Diggle and Christopher Yau. Our aim was to create a unique national PhD programme, formed from a distributed network of students based across an HDRUK/Turing university partnership network, which adheres to HDRUK’s “One Institute” strategy which aims to unite the UK’s health data to enable discoveries that improve people’s lives. We believe that collaborations and partnerships are vital to ensuring that health data is used effectively and this is a philosophy that we will instill in our PhD cohorts. After a rigourous assessment by an international panel, our application was accepted for funding and we began our first recruitment for PhD students at the end of 2019. ",
+    "url": "http://localhost:4000/course_docs/background.html#history",
+    "relUrl": "/course_docs/background.html#history"
+  },"3": {
+    "doc": "Background",
+    "title": "University Partners",
+    "content": "Our programme is delivered in collaboration with seven university partners: . | Queen’s University Belfast | University of Birmingham | University of Cambridge | University of Edinburgh | University of Oxford | University of Manchester | University College London | . Students will be registered at one of our partner universities during their studies and all will undertake training courses and activities delivered by each university. ",
+    "url": "http://localhost:4000/course_docs/background.html#university-partners",
+    "relUrl": "/course_docs/background.html#university-partners"
+  },"4": {
+    "doc": "Bayesian Machine Learning",
+    "title": "Table of contents",
+    "content": ". | Bayesian Machine Learning . | Overview | Syllabus | Reading List | . | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/bayesml.html#table-of-contents",
+    "relUrl": "/course_docs/programme/courses/bayesml.html#table-of-contents"
+  },"5": {
+    "doc": "Bayesian Machine Learning",
     "title": "Bayesian Machine Learning",
-    "content": ". Bayesian Machine Learning Overview | Syllabus | Reading List | | . Bayesian Machine Learning . Organisers: . Christopher Yau | Kaspar Martens | Dominic Danks | . Overview . The purpose of this course is to provide students with an overview of the cutting edge ideas in modern machine learning with a focus on probabilistic approaches based on Bayesian methodology. This course is not intended to teach you Bayesian modelling in its entirety in these eight sessions. Instead, we will focus on providing a platform to support further detailed learning in your own time by reviewing key aspects of the field and how they apply in health applications and examining the potential developments that may require your attentions. . Syllabus . This course has its own website which can be found here . Reading List .",
-    "url": "/course_docs/programme/courses/bayesml.html",
+    "content": "Organisers: . | Christopher Yau | Kaspar Martens | Dominic Danks | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/bayesml.html",
     "relUrl": "/course_docs/programme/courses/bayesml.html"
-  }
-  ,"3": {
+  },"6": {
+    "doc": "Bayesian Machine Learning",
+    "title": "Overview",
+    "content": "The purpose of this course is to provide students with an overview of the cutting edge ideas in modern machine learning with a focus on probabilistic approaches based on Bayesian methodology. This course is not intended to teach you Bayesian modelling in its entirety in these eight sessions. Instead, we will focus on providing a platform to support further detailed learning in your own time by reviewing key aspects of the field and how they apply in health applications and examining the potential developments that may require your attentions. ",
+    "url": "http://localhost:4000/course_docs/programme/courses/bayesml.html#overview",
+    "relUrl": "/course_docs/programme/courses/bayesml.html#overview"
+  },"7": {
+    "doc": "Bayesian Machine Learning",
+    "title": "Syllabus",
+    "content": "This course has its own website which can be found here . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/bayesml.html#syllabus",
+    "relUrl": "/course_docs/programme/courses/bayesml.html#syllabus"
+  },"8": {
+    "doc": "Bayesian Machine Learning",
+    "title": "Reading List",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses/bayesml.html#reading-list",
+    "relUrl": "/course_docs/programme/courses/bayesml.html#reading-list"
+  },"9": {
+    "doc": "C1 Computing",
+    "title": "Table of contents",
+    "content": ". | C1: Computing . | Overview | Syllabus | Reading list | . | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c1computing.html#table-of-contents",
+    "relUrl": "/course_docs/programme/courses/c1computing.html#table-of-contents"
+  },"10": {
+    "doc": "C1 Computing",
+    "title": "C1: Computing",
+    "content": "Organisers: XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c1computing.html#c1-computing",
+    "relUrl": "/course_docs/programme/courses/c1computing.html#c1-computing"
+  },"11": {
+    "doc": "C1 Computing",
+    "title": "Overview",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c1computing.html#overview",
+    "relUrl": "/course_docs/programme/courses/c1computing.html#overview"
+  },"12": {
+    "doc": "C1 Computing",
+    "title": "Syllabus",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c1computing.html#syllabus",
+    "relUrl": "/course_docs/programme/courses/c1computing.html#syllabus"
+  },"13": {
+    "doc": "C1 Computing",
+    "title": "Reading list",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c1computing.html#reading-list",
+    "relUrl": "/course_docs/programme/courses/c1computing.html#reading-list"
+  },"14": {
+    "doc": "C1 Computing",
     "title": "C1 Computing",
-    "content": ". C1: Computing Overview | Syllabus | Reading list | | . C1: Computing . Organisers: XXX . Overview . XXX . Syllabus . XXX . Reading list . XXX .",
-    "url": "/course_docs/programme/courses/c1computing.html",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c1computing.html",
     "relUrl": "/course_docs/programme/courses/c1computing.html"
-  }
-  ,"4": {
+  },"15": {
+    "doc": "C2 Probability & Statistics",
+    "title": "Table of contents",
+    "content": ". | C2: Probability &amp; Statistics . | Overview | Syllabus | Reading list | . | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c2probstats.html#table-of-contents",
+    "relUrl": "/course_docs/programme/courses/c2probstats.html#table-of-contents"
+  },"16": {
+    "doc": "C2 Probability & Statistics",
+    "title": "C2: Probability &amp; Statistics",
+    "content": "Organisers: Peter Diggle, Christopher Yau . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c2probstats.html#c2-probability--statistics",
+    "relUrl": "/course_docs/programme/courses/c2probstats.html#c2-probability--statistics"
+  },"17": {
+    "doc": "C2 Probability & Statistics",
+    "title": "Overview",
+    "content": "The aims of this course are to introduce students to the role of statistics in scientific research, and to the fundamental results in probability that provide the theoretical basis of many statistical methods used to analysis scientific data. The emphasis throughout will be on general concepts rather than specific techniques that can be learnt through a combination of directed reading and practical application. The course will be delivered thoughr a series of four online lectures, follow-up tutorial discussions and suggestions for practical work that students can complete in their own time. ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c2probstats.html#overview",
+    "relUrl": "/course_docs/programme/courses/c2probstats.html#overview"
+  },"18": {
+    "doc": "C2 Probability & Statistics",
+    "title": "Syllabus",
+    "content": ". | Probability (CY) . | Laws of probability | conditional probability | Bayes Theorem | random variables | families of probability distributions | moments (expectation, variance) | . | Statistics and scientific method (PJD) . | Design principles (randomisation, blocking) | statistical modelling (inputs and outputs, fixed and random effects, parameters, residuals)- statistical inference (populations and samples, estimation, testing, prediction) | . | Likelihood-based inference (PJD) . | Likelihood function | properties of MLEs and GLRTs; role of likelihood in Bayesian parametric inference | Monte Carlo methods (MCML and MCMC) | . | Probability and Bayesian inference (CY) . | Exchangeability | De Finetti’s Theorem | Bayesian inference revisited | estimation and prediction revisited | . | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c2probstats.html#syllabus",
+    "relUrl": "/course_docs/programme/courses/c2probstats.html#syllabus"
+  },"19": {
+    "doc": "C2 Probability & Statistics",
+    "title": "Reading list",
+    "content": ". | Diggle, P.J. and Chetwynd, A.G. (2011). Statistics and Scientific Method: an Introduction for Students and Researchers. Oxford: Oxford University Press. | Clayton, D. and Hills, M. (1993). Statistical Models in Epidemiology. Oxford: Oxford University Press. | Grimmett, G. and Welsh, D. (2014). Probability: An Introduction (second edition). Oxford: Oxford University Press . | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c2probstats.html#reading-list",
+    "relUrl": "/course_docs/programme/courses/c2probstats.html#reading-list"
+  },"20": {
+    "doc": "C2 Probability & Statistics",
     "title": "C2 Probability & Statistics",
-    "content": ". C2: Probability &amp; Statistics Overview | Syllabus | Reading list | | . C2: Probability &amp; Statistics . Organisers: Peter Diggle, Christopher Yau . Overview . The aims of this course are to introduce students to the role of statistics in scientific research, and to the fundamental results in probability that provide the theoretical basis of many statistical methods used to analysis scientific data. The emphasis throughout will be on general concepts rather than specific techniques that can be learnt through a combination of directed reading and practical application. The course will be delivered thoughr a series of four online lectures, follow-up tutorial discussions and suggestions for practical work that students can complete in their own time. . Syllabus . Probability (CY) Laws of probability | conditional probability | Bayes Theorem | random variables | families of probability distributions | moments (expectation, variance) | . | Statistics and scientific method (PJD) Design principles (randomisation, blocking) | statistical modelling (inputs and outputs, fixed and random effects, parameters, residuals)- statistical inference (populations and samples, estimation, testing, prediction) | . | Likelihood-based inference (PJD) Likelihood function | properties of MLEs and GLRTs; role of likelihood in Bayesian parametric inference | Monte Carlo methods (MCML and MCMC) | . | Probability and Bayesian inference (CY) Exchangeability | De Finetti’s Theorem | Bayesian inference revisited | estimation and prediction revisited | . | Reading list . Diggle, P.J. and Chetwynd, A.G. (2011). Statistics and Scientific Method: an Introduction for Students and Researchers. Oxford: Oxford University Press. . | Clayton, D. and Hills, M. (1993). Statistical Models in Epidemiology. Oxford: Oxford University Press. . | Grimmett, G. and Welsh, D. (2014). Probability: An Introduction (second edition). Oxford: Oxford University Press . |",
-    "url": "/course_docs/programme/courses/c2probstats.html",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c2probstats.html",
     "relUrl": "/course_docs/programme/courses/c2probstats.html"
-  }
-  ,"5": {
+  },"21": {
+    "doc": "C3 Biology",
+    "title": "Table of contents",
+    "content": ". | C3: Biology . | Overview | Syllabus | Reading list | . | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c3biology.html#table-of-contents",
+    "relUrl": "/course_docs/programme/courses/c3biology.html#table-of-contents"
+  },"22": {
+    "doc": "C3 Biology",
+    "title": "C3: Biology",
+    "content": "Organisers: XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c3biology.html#c3-biology",
+    "relUrl": "/course_docs/programme/courses/c3biology.html#c3-biology"
+  },"23": {
+    "doc": "C3 Biology",
+    "title": "Overview",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c3biology.html#overview",
+    "relUrl": "/course_docs/programme/courses/c3biology.html#overview"
+  },"24": {
+    "doc": "C3 Biology",
+    "title": "Syllabus",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c3biology.html#syllabus",
+    "relUrl": "/course_docs/programme/courses/c3biology.html#syllabus"
+  },"25": {
+    "doc": "C3 Biology",
+    "title": "Reading list",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c3biology.html#reading-list",
+    "relUrl": "/course_docs/programme/courses/c3biology.html#reading-list"
+  },"26": {
+    "doc": "C3 Biology",
     "title": "C3 Biology",
-    "content": ". C3: Biology Overview | Syllabus | Reading list | | . C3: Biology . Organisers: XXX . Overview . XXX . Syllabus . XXX . Reading list . XXX .",
-    "url": "/course_docs/programme/courses/c3biology.html",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c3biology.html",
     "relUrl": "/course_docs/programme/courses/c3biology.html"
-  }
-  ,"6": {
+  },"27": {
+    "doc": "C4 Reproducible Research",
+    "title": "Table of contents",
+    "content": ". | C4: Reproducible Research . | Overview | Syllabus | Reading list | . | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c4reproducibility.html#table-of-contents",
+    "relUrl": "/course_docs/programme/courses/c4reproducibility.html#table-of-contents"
+  },"28": {
+    "doc": "C4 Reproducible Research",
+    "title": "C4: Reproducible Research",
+    "content": "Organisers: XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c4reproducibility.html#c4-reproducible-research",
+    "relUrl": "/course_docs/programme/courses/c4reproducibility.html#c4-reproducible-research"
+  },"29": {
+    "doc": "C4 Reproducible Research",
+    "title": "Overview",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c4reproducibility.html#overview",
+    "relUrl": "/course_docs/programme/courses/c4reproducibility.html#overview"
+  },"30": {
+    "doc": "C4 Reproducible Research",
+    "title": "Syllabus",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c4reproducibility.html#syllabus",
+    "relUrl": "/course_docs/programme/courses/c4reproducibility.html#syllabus"
+  },"31": {
+    "doc": "C4 Reproducible Research",
+    "title": "Reading list",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c4reproducibility.html#reading-list",
+    "relUrl": "/course_docs/programme/courses/c4reproducibility.html#reading-list"
+  },"32": {
+    "doc": "C4 Reproducible Research",
     "title": "C4 Reproducible Research",
-    "content": ". C4: Reproducible Research Overview | Syllabus | Reading list | | . C4: Reproducible Research . Organisers: XXX . Overview . XXX . Syllabus . XXX . Reading list . XXX .",
-    "url": "/course_docs/programme/courses/c4reproducibility.html",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c4reproducibility.html",
     "relUrl": "/course_docs/programme/courses/c4reproducibility.html"
-  }
-  ,"7": {
+  },"33": {
+    "doc": "C5 Research Ethics",
+    "title": "Table of contents",
+    "content": ". | C5: Research Ethics . | Overview | Syllabus | Reading list | . | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c5ethics.html#table-of-contents",
+    "relUrl": "/course_docs/programme/courses/c5ethics.html#table-of-contents"
+  },"34": {
+    "doc": "C5 Research Ethics",
+    "title": "C5: Research Ethics",
+    "content": "Organisers: XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c5ethics.html#c5-research-ethics",
+    "relUrl": "/course_docs/programme/courses/c5ethics.html#c5-research-ethics"
+  },"35": {
+    "doc": "C5 Research Ethics",
+    "title": "Overview",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c5ethics.html#overview",
+    "relUrl": "/course_docs/programme/courses/c5ethics.html#overview"
+  },"36": {
+    "doc": "C5 Research Ethics",
+    "title": "Syllabus",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c5ethics.html#syllabus",
+    "relUrl": "/course_docs/programme/courses/c5ethics.html#syllabus"
+  },"37": {
+    "doc": "C5 Research Ethics",
+    "title": "Reading list",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c5ethics.html#reading-list",
+    "relUrl": "/course_docs/programme/courses/c5ethics.html#reading-list"
+  },"38": {
+    "doc": "C5 Research Ethics",
     "title": "C5 Research Ethics",
-    "content": ". C5: Research Ethics Overview | Syllabus | Reading list | | . C5: Research Ethics . Organisers: XXX . Overview . XXX . Syllabus . XXX . Reading list . XXX .",
-    "url": "/course_docs/programme/courses/c5ethics.html",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c5ethics.html",
     "relUrl": "/course_docs/programme/courses/c5ethics.html"
-  }
-  ,"8": {
+  },"39": {
+    "doc": "C6 Team Science and Communication Skills",
+    "title": "Table of contents",
+    "content": ". | C6: Team Science and Communication Skills . | Overview | Syllabus | Reading list | . | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c6teamscience.html#table-of-contents",
+    "relUrl": "/course_docs/programme/courses/c6teamscience.html#table-of-contents"
+  },"40": {
+    "doc": "C6 Team Science and Communication Skills",
+    "title": "C6: Team Science and Communication Skills",
+    "content": "Organisers: XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c6teamscience.html#c6-team-science-and-communication-skills",
+    "relUrl": "/course_docs/programme/courses/c6teamscience.html#c6-team-science-and-communication-skills"
+  },"41": {
+    "doc": "C6 Team Science and Communication Skills",
+    "title": "Overview",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c6teamscience.html#overview",
+    "relUrl": "/course_docs/programme/courses/c6teamscience.html#overview"
+  },"42": {
+    "doc": "C6 Team Science and Communication Skills",
+    "title": "Syllabus",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c6teamscience.html#syllabus",
+    "relUrl": "/course_docs/programme/courses/c6teamscience.html#syllabus"
+  },"43": {
+    "doc": "C6 Team Science and Communication Skills",
+    "title": "Reading list",
+    "content": "XXX . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c6teamscience.html#reading-list",
+    "relUrl": "/course_docs/programme/courses/c6teamscience.html#reading-list"
+  },"44": {
+    "doc": "C6 Team Science and Communication Skills",
     "title": "C6 Team Science and Communication Skills",
-    "content": ". C6: Team Science and Communication Skills Overview | Syllabus | Reading list | | . C6: Team Science and Communication Skills . Organisers: XXX . Overview . XXX . Syllabus . XXX . Reading list . XXX .",
-    "url": "/course_docs/programme/courses/c6teamscience.html",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses/c6teamscience.html",
     "relUrl": "/course_docs/programme/courses/c6teamscience.html"
-  }
-  ,"9": {
-    "title": "Courses",
-    "content": "Course List . Year 1 . C1: Computing . C2: Probability &amp; Statistics . C3: Biology . C4: Reproducible Research . C5: Research Ethics . C6: Team Science and Communications . Bayesian Machine Learning . Year 2 . Year 3 . Year 4 .",
-    "url": "/course_docs/programme/courses.html",
-    "relUrl": "/course_docs/programme/courses.html"
-  }
-  ,"10": {
-    "title": "Facilities",
-    "content": "Facilities .",
-    "url": "/course_docs/facilities.html",
-    "relUrl": "/course_docs/facilities.html"
-  }
-  ,"11": {
-    "title": "Introduction",
-    "content": "Introduction . “This PhD programme is a big step forward in our ambition to meet the UK’s need for trained health data scientists.” – Professor Peter Diggle, Programme Director . We are very excited to welcome you to the start of your doctoral studies with us at Health Data Research UK. . “Embedding our PhD students within an extensive cross-sector, multi-disciplinary collaborative network will enable them to address the greatest challenges in implementing health data science at scale.” – Professor Christopher Yau, Programme Co-Director .",
-    "url": "/course_docs/introduction.html",
-    "relUrl": "/course_docs/introduction.html"
-  }
-  ,"12": {
-    "title": "Feedback",
-    "content": "Feedback, monitoring, assessment . Directors Meetings . In Year 1, you will meet individually with the programme directors on at least three occasions to discuss and chart your progress. These meetings will occur at the beginning of the programme, at around six months and at the end of the year. There will be an annual meeting in Years 2-4. . At the start of the programme you will be asked to outline your personal expectations and ambitions. We hope to support you in realising those goals and to modify them as your experience and interests change over time. .",
-    "url": "/course_docs/monitoring.html",
-    "relUrl": "/course_docs/monitoring.html"
-  }
-  ,"13": {
-    "title": "Choosing your PhD",
-    "content": "Choosing your PhD .",
-    "url": "/course_docs/phd-choice.html",
-    "relUrl": "/course_docs/phd-choice.html"
-  }
-  ,"14": {
-    "title": "Programme Details",
-    "content": "The Programme . This page describes the overall programme structure. It is split into two parts: . Year 1 training programme . Year 2-4 research project . Course List .",
-    "url": "/course_docs/programme/programme.html",
-    "relUrl": "/course_docs/programme/programme.html"
-  }
-  ,"15": {
-    "title": "Progression",
-    "content": "Progression .",
-    "url": "/course_docs/progression.html",
-    "relUrl": "/course_docs/progression.html"
-  }
-  ,"16": {
-    "title": "Resources",
-    "content": "Resources .",
-    "url": "/course_docs/resources.html",
-    "relUrl": "/course_docs/resources.html"
-  }
-  ,"17": {
-    "title": "Staff",
-    "content": "Staff . Programme Staff . These are the team responsible for the day-to-day running of the programme. . Name Role Institution Link . Peter Diggle | Director | Lancaster/HDRUK | Link | . Christopher Yau | Co-Director | Manchester/Turing | Link | . Kal Kohli | Doctoral Programme Coordinator | Turing | Link | . Amy Gallimore | Recruitment Coordinator | Turing | Link | . Executive Board . A panel consisting of representatives from our University Partners and the Alan Turing Institute who advise on the programme implementation and support the development of recruitment, training and research activities. . Name Institution Link . Mark Lawler | Queen’s Belfast | Link | . Georgios Gkoutos | Birmingham | Link | . Iain Styles | Birmingham | Link | . Sylvia Richardson | Cambridge | Link | . Angela Wood | Cambridge | Link | . Miguel Bernabeu | Edinburgh | Link | . Catalina Vallejos | Edinburgh | Link | . Ben Cairns | Oxford | Link | . Niels Peek | Manchester | Link | . Paul Taylor | UCL | Link | . Ioanna Manolopoulou | UCL | Link | . Ben Murton | Turing | Link | . Kirstie Whitaker | Turing | Link | .",
-    "url": "/course_docs/staff.html",
-    "relUrl": "/course_docs/staff.html"
-  }
-  ,"18": {
-    "title": "Student Support",
-    "content": "Student Support . Your welfare during your PhD is of the utmost importance to us and you will have access to two main forms of independent support as a student on this programme. . Support from your University . Year 1 . All our first year students will be registered with a member of our Executive Board at your home university. You should have been informed of who this is either by your home university or by us. They will act as your Graduate Tutor/Supervisor in Year 1 of the programme and provide support during the first year of the programme. Please note that this is not the same as your PhD Research Supervisor(s) who will not be chosen until the end of Year 1. Your home university may also allocate other academic staff to support you during your PhD studies. . Your home university should provide you with information detailing their institutional student welfare support provisions during your induction or at some point during your first year of study. If you do not feel you have been advised of this information then please contact your home university graduate tutor in the first instance. . Years 2-4 . After you have chosen your main PhD research topic and supervisory team at the end of Year 1, your academic support will normally transfer from your Year 1 graduate tutor to the lead research supervisor and any additional members of the supervisory team as appropriate. They will often be your first destination for further support but where applicable you may wish to use other home university resources and services. Please consult your home university student services for details. . Support from us . Our students will also uniquely have support external to their university via the programme. This could be members of the Programme Operations Team or members of the Executive Board not at your University. . The Directors . The Programme Directors should be advised if you are experiencing any difficulties with your studies either because of challenges presented by your working environment or in your personal life. We will provide support to help you overcome any challenges where your home university cannot provide this. . Programme Administration . The Programme Administration team should be advised if you are experiencing any difficulties with your studies because of administrative problems. Examples might include financial issues with payments of fees or stipends, visa issues for international students, official student documentation, etc. If you are sick or unable to attend planned training activities, the Administration team should be informed in the first instance. . Executive Board . Our Executive Board consists of highly experienced academics with a wide range of experience across a number of scientific and non-scientific disciplines. Our students are welcome to draw upon these experiences where they require subject- or discipline-specific advice in relation to their research studies or professional development. However, issues which are personal in nature or not research specific should first be directed to the Programme Directors. . All information will be treated strictly confidentiality unless you tell us otherwise . Other support . Harassment . HDRUK takes a zero-tolerance policy towards harassment. Details of our policy can be found here. . Disability . HDRUK aims to make our PhD programme as accessible as possible for those with disabilities. Our policy for those living with disabilities is here. . Childcare . HDRUK aims to support student parents. Our policy for those with childcare responsibilities is here. .",
-    "url": "/course_docs/support.html",
-    "relUrl": "/course_docs/support.html"
-  }
-  ,"19": {
-    "title": "Timetable",
-    "content": "Timetable .",
-    "url": "/course_docs/timetable.html",
-    "relUrl": "/course_docs/timetable.html"
-  }
-  ,"20": {
-    "title": "Post Year 1 Training",
-    "content": "After the first year … .",
-    "url": "/course_docs/training.html",
-    "relUrl": "/course_docs/training.html"
-  }
-  ,"21": {
+  },"45": {
+    "doc": "Courses",
+    "title": "Course List",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses.html#course-list",
+    "relUrl": "/course_docs/programme/courses.html#course-list"
+  },"46": {
+    "doc": "Courses",
     "title": "Year 1",
-    "content": "Year 1 Training Programme . . Core Courses | Immersion Weeks | Mini-projects | Choosing a PhD project/supervisors | Assessment | . Core Courses . The aim of core courses is to … . C2: Probability &amp; Statistics . Immersion Weeks . The aim of immersion weeks is to … . Mini-projects . Students will undertake … . Choosing a PhD project/supervisors . Students must define a PhD research topic and supervisory team … . Assessment . Progression to Years 2-4 will require … .",
-    "url": "/course_docs/programme/year1.html",
+    "content": "C1: Computing . C2: Probability &amp; Statistics . C3: Biology . C4: Reproducible Research . C5: Research Ethics . C6: Team Science and Communications . Bayesian Machine Learning . ",
+    "url": "http://localhost:4000/course_docs/programme/courses.html#year-1",
+    "relUrl": "/course_docs/programme/courses.html#year-1"
+  },"47": {
+    "doc": "Courses",
+    "title": "Year 2",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses.html#year-2",
+    "relUrl": "/course_docs/programme/courses.html#year-2"
+  },"48": {
+    "doc": "Courses",
+    "title": "Year 3",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses.html#year-3",
+    "relUrl": "/course_docs/programme/courses.html#year-3"
+  },"49": {
+    "doc": "Courses",
+    "title": "Year 4",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses.html#year-4",
+    "relUrl": "/course_docs/programme/courses.html#year-4"
+  },"50": {
+    "doc": "Courses",
+    "title": "Courses",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/courses.html",
+    "relUrl": "/course_docs/programme/courses.html"
+  },"51": {
+    "doc": "Facilities",
+    "title": "Facilities",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/facilities.html",
+    "relUrl": "/course_docs/facilities.html"
+  },"52": {
+    "doc": "Introduction",
+    "title": "Introduction",
+    "content": "“This PhD programme is a big step forward in our ambition to meet the UK’s need for trained health data scientists.” – Professor Peter Diggle, Programme Director . We are very excited to welcome you to the start of your doctoral studies with us at Health Data Research UK. “Embedding our PhD students within an extensive cross-sector, multi-disciplinary collaborative network will enable them to address the greatest challenges in implementing health data science at scale.” – Professor Christopher Yau, Programme Co-Director . ",
+    "url": "http://localhost:4000/course_docs/introduction.html",
+    "relUrl": "/course_docs/introduction.html"
+  },"53": {
+    "doc": "Feedback",
+    "title": "Feedback, monitoring, assessment",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/monitoring.html#feedback-monitoring-assessment",
+    "relUrl": "/course_docs/monitoring.html#feedback-monitoring-assessment"
+  },"54": {
+    "doc": "Feedback",
+    "title": "Directors Meetings",
+    "content": "In Year 1, you will meet individually with the programme directors on at least three occasions to discuss and chart your progress. These meetings will occur at the beginning of the programme, at around six months and at the end of the year. There will be an annual meeting in Years 2-4. At the start of the programme you will be asked to outline your personal expectations and ambitions. We hope to support you in realising those goals and to modify them as your experience and interests change over time. ",
+    "url": "http://localhost:4000/course_docs/monitoring.html#directors-meetings",
+    "relUrl": "/course_docs/monitoring.html#directors-meetings"
+  },"55": {
+    "doc": "Feedback",
+    "title": "Feedback",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/monitoring.html",
+    "relUrl": "/course_docs/monitoring.html"
+  },"56": {
+    "doc": "Choosing your PhD",
+    "title": "Choosing your PhD",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/phd-choice.html",
+    "relUrl": "/course_docs/phd-choice.html"
+  },"57": {
+    "doc": "Programme Details",
+    "title": "The Programme",
+    "content": "This page describes the overall programme structure. It is split into two parts: . Year 1 training programme . Year 2-4 research project . Course List . ",
+    "url": "http://localhost:4000/course_docs/programme/programme.html#the-programme",
+    "relUrl": "/course_docs/programme/programme.html#the-programme"
+  },"58": {
+    "doc": "Programme Details",
+    "title": "Programme Details",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/programme.html",
+    "relUrl": "/course_docs/programme/programme.html"
+  },"59": {
+    "doc": "Progression",
+    "title": "Progression",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/progression.html",
+    "relUrl": "/course_docs/progression.html"
+  },"60": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/resources.html",
+    "relUrl": "/course_docs/resources.html"
+  },"61": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/staff.html",
+    "relUrl": "/course_docs/staff.html"
+  },"62": {
+    "doc": "Staff",
+    "title": "Programme Staff",
+    "content": "These are the team responsible for the day-to-day running of the programme. | Name | Role | Institution | Link | . | Peter Diggle | Director | Lancaster/HDRUK | Link | . | Christopher Yau | Co-Director | Manchester/Turing | Link | . | Kal Kohli | Doctoral Programme Coordinator | Turing | Link | . | Amy Gallimore | Recruitment Coordinator | Turing | Link | . ",
+    "url": "http://localhost:4000/course_docs/staff.html#programme-staff",
+    "relUrl": "/course_docs/staff.html#programme-staff"
+  },"63": {
+    "doc": "Staff",
+    "title": "Executive Board",
+    "content": "A panel consisting of representatives from our University Partners and the Alan Turing Institute who advise on the programme implementation and support the development of recruitment, training and research activities. | Name | Institution | Link | . | Mark Lawler | Queen’s Belfast | Link | . | Georgios Gkoutos | Birmingham | Link | . | Iain Styles | Birmingham | Link | . | Sylvia Richardson | Cambridge | Link | . | Angela Wood | Cambridge | Link | . | Miguel Bernabeu | Edinburgh | Link | . | Catalina Vallejos | Edinburgh | Link | . | Ben Cairns | Oxford | Link | . | Niels Peek | Manchester | Link | . | Paul Taylor | UCL | Link | . | Ioanna Manolopoulou | UCL | Link | . | Ben Murton | Turing | Link | . | Kirstie Whitaker | Turing | Link | . ",
+    "url": "http://localhost:4000/course_docs/staff.html#executive-board",
+    "relUrl": "/course_docs/staff.html#executive-board"
+  },"64": {
+    "doc": "Student Support",
+    "title": "Student Support",
+    "content": "Your welfare during your PhD is of the utmost importance to us and you will have access to two main forms of independent support as a student on this programme. ",
+    "url": "http://localhost:4000/course_docs/support.html",
+    "relUrl": "/course_docs/support.html"
+  },"65": {
+    "doc": "Student Support",
+    "title": "Support from your University",
+    "content": "Year 1 . All our first year students will be registered with a member of our Executive Board at your home university. You should have been informed of who this is either by your home university or by us. They will act as your Graduate Tutor/Supervisor in Year 1 of the programme and provide support during the first year of the programme. Please note that this is not the same as your PhD Research Supervisor(s) who will not be chosen until the end of Year 1. Your home university may also allocate other academic staff to support you during your PhD studies. Your home university should provide you with information detailing their institutional student welfare support provisions during your induction or at some point during your first year of study. If you do not feel you have been advised of this information then please contact your home university graduate tutor in the first instance. Years 2-4 . After you have chosen your main PhD research topic and supervisory team at the end of Year 1, your academic support will normally transfer from your Year 1 graduate tutor to the lead research supervisor and any additional members of the supervisory team as appropriate. They will often be your first destination for further support but where applicable you may wish to use other home university resources and services. Please consult your home university student services for details. ",
+    "url": "http://localhost:4000/course_docs/support.html#support-from-your-university",
+    "relUrl": "/course_docs/support.html#support-from-your-university"
+  },"66": {
+    "doc": "Student Support",
+    "title": "Support from us",
+    "content": "Our students will also uniquely have support external to their university via the programme. This could be members of the Programme Operations Team or members of the Executive Board not at your University. The Directors . The Programme Directors should be advised if you are experiencing any difficulties with your studies either because of challenges presented by your working environment or in your personal life. We will provide support to help you overcome any challenges where your home university cannot provide this. Programme Administration . The Programme Administration team should be advised if you are experiencing any difficulties with your studies because of administrative problems. Examples might include financial issues with payments of fees or stipends, visa issues for international students, official student documentation, etc. If you are sick or unable to attend planned training activities, the Administration team should be informed in the first instance. Executive Board . Our Executive Board consists of highly experienced academics with a wide range of experience across a number of scientific and non-scientific disciplines. Our students are welcome to draw upon these experiences where they require subject- or discipline-specific advice in relation to their research studies or professional development. However, issues which are personal in nature or not research specific should first be directed to the Programme Directors. All information will be treated strictly confidentiality unless you tell us otherwise . ",
+    "url": "http://localhost:4000/course_docs/support.html#support-from-us",
+    "relUrl": "/course_docs/support.html#support-from-us"
+  },"67": {
+    "doc": "Student Support",
+    "title": "Other support",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/support.html#other-support",
+    "relUrl": "/course_docs/support.html#other-support"
+  },"68": {
+    "doc": "Student Support",
+    "title": "Harassment",
+    "content": "HDRUK takes a zero-tolerance policy towards harassment. Details of our policy can be found here. ",
+    "url": "http://localhost:4000/course_docs/support.html#harassment",
+    "relUrl": "/course_docs/support.html#harassment"
+  },"69": {
+    "doc": "Student Support",
+    "title": "Disability",
+    "content": "HDRUK aims to make our PhD programme as accessible as possible for those with disabilities. Our policy for those living with disabilities is here. ",
+    "url": "http://localhost:4000/course_docs/support.html#disability",
+    "relUrl": "/course_docs/support.html#disability"
+  },"70": {
+    "doc": "Student Support",
+    "title": "Childcare",
+    "content": "HDRUK aims to support student parents. Our policy for those with childcare responsibilities is here. ",
+    "url": "http://localhost:4000/course_docs/support.html#childcare",
+    "relUrl": "/course_docs/support.html#childcare"
+  },"71": {
+    "doc": "Timetable",
+    "title": "Timetable",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/timetable.html",
+    "relUrl": "/course_docs/timetable.html"
+  },"72": {
+    "doc": "Post Year 1 Training",
+    "title": "After the first year …",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/training.html#after-the-first-year-",
+    "relUrl": "/course_docs/training.html#after-the-first-year-"
+  },"73": {
+    "doc": "Post Year 1 Training",
+    "title": "Post Year 1 Training",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/training.html",
+    "relUrl": "/course_docs/training.html"
+  },"74": {
+    "doc": "Year 1",
+    "title": "Year 1 Training Programme",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/year1.html#year-1-training-programme",
+    "relUrl": "/course_docs/programme/year1.html#year-1-training-programme"
+  },"75": {
+    "doc": "Year 1",
+    "title": "Table of contents",
+    "content": ". | Common Core | Immersion Weeks | Mini-projects | Choosing a PhD project/supervisors | Assessment | . ",
+    "url": "http://localhost:4000/course_docs/programme/year1.html#table-of-contents",
+    "relUrl": "/course_docs/programme/year1.html#table-of-contents"
+  },"76": {
+    "doc": "Year 1",
+    "title": "Common Core",
+    "content": "The Common Core is a syllabus that consists of key knowledge, skills and competencies that we believe should be part of the repertoire of expertise for all health data scientists. It is split into six components with detailed outlines are given in Courses: . 1. Computing 2. Probability &amp; Statistics 3. Biology 4. Reproducible Research 5. Ethics 6. Team Science and Communication . At the start of the course, each student will complete a self-evaluation checklist to measure their existing competencies against the Common Core. Some students will have extensive prior experience in some areas, but maybe little to none in others. We established the Common Core as a means to support students to identify their unique needs for training and development. During the first year, students will continually update an evidence-based training record where they will map the activities contained in the various training courses to the Common Core. The intention is for each student to reflect on the training provided and to understand how their experiences align with the Common Core. This is not intended to be a “tick box” exercise. The training record will form part of the progress review at the end of Year 1. ",
+    "url": "http://localhost:4000/course_docs/programme/year1.html#common-core",
+    "relUrl": "/course_docs/programme/year1.html#common-core"
+  },"77": {
+    "doc": "Year 1",
+    "title": "Immersion Weeks",
+    "content": "The aim of immersion weeks is to provide students with a deep insight to research activities occurring at each of our university partners and how these align with the national health data science priorities of HDRUK. Each immersion week will contain technical training and cohort building activities. We hope students will use these immersion weeks to develop ideas for cross-site PhD research projects in Years 2-4. ",
+    "url": "http://localhost:4000/course_docs/programme/year1.html#immersion-weeks",
+    "relUrl": "/course_docs/programme/year1.html#immersion-weeks"
+  },"78": {
+    "doc": "Year 1",
+    "title": "Mini-projects",
+    "content": "Students will undertake … . ",
+    "url": "http://localhost:4000/course_docs/programme/year1.html#mini-projects",
+    "relUrl": "/course_docs/programme/year1.html#mini-projects"
+  },"79": {
+    "doc": "Year 1",
+    "title": "Choosing a PhD project/supervisors",
+    "content": "Students must define a PhD research topic and supervisory team … . ",
+    "url": "http://localhost:4000/course_docs/programme/year1.html#choosing-a-phd-projectsupervisors",
+    "relUrl": "/course_docs/programme/year1.html#choosing-a-phd-projectsupervisors"
+  },"80": {
+    "doc": "Year 1",
+    "title": "Assessment",
+    "content": "Progression to Years 2-4 will require … . ",
+    "url": "http://localhost:4000/course_docs/programme/year1.html#assessment",
+    "relUrl": "/course_docs/programme/year1.html#assessment"
+  },"81": {
+    "doc": "Year 1",
+    "title": "Year 1",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/year1.html",
     "relUrl": "/course_docs/programme/year1.html"
-  }
-  ,"22": {
+  },"82": {
+    "doc": "Year 2-4",
+    "title": "Year 2-4 Training Programme",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#year-2-4-training-programme",
+    "relUrl": "/course_docs/programme/year24.html#year-2-4-training-programme"
+  },"83": {
+    "doc": "Year 2-4",
+    "title": "Table of contents",
+    "content": ". | Beginning your PhD | Ongoing Training | . After your doctoral research project has begun … . ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#table-of-contents",
+    "relUrl": "/course_docs/programme/year24.html#table-of-contents"
+  },"84": {
+    "doc": "Year 2-4",
+    "title": "Beginning your PhD",
+    "content": "At the start of Year 2 … . ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#beginning-your-phd",
+    "relUrl": "/course_docs/programme/year24.html#beginning-your-phd"
+  },"85": {
+    "doc": "Year 2-4",
+    "title": "Ongoing Training",
+    "content": "Students will undertake a bespoke training programme … . ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#ongoing-training",
+    "relUrl": "/course_docs/programme/year24.html#ongoing-training"
+  },"86": {
+    "doc": "Year 2-4",
     "title": "Year 2-4",
-    "content": "Year 2-4 Training Programme . . Beginning your PhD | Ongoing Training | . After your doctoral research project has begun … . Beginning your PhD . At the start of Year 2 … . Ongoing Training . Students will undertake a bespoke training programme … .",
-    "url": "/course_docs/programme/year24.html",
+    "content": " ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html",
     "relUrl": "/course_docs/programme/year24.html"
-  }
-  ,"23": {
-    "title": "",
-    "content": "",
-    "url": "/images/test.html",
-    "relUrl": "/images/test.html"
-  }
-  ,"24": {
+  },"87": {
+    "doc": "Student Handbook",
     "title": "Student Handbook",
-    "content": "Student Handbook . This is a student handbook for the HDRUK-Turing PhD Programme in Health Data Science. Information contained within here is only appropriate to students registered on the course. . Contents . Introduction A word from the Directors about the programme, its mission and our expectations of our students. . Programme Background Overview of the programme and its history. . Programme Details Detailed information about the programme and its training elements. . Staff Information about the people who run the programme. . Choosing your PhD Details about the PhD project selection process. . Feedback, monitoring, assessment Information about how we will monitor and assess your progress. . Progression Requirements that you will need to maintain during your PhD. . After the first year … Information about how we will support you after Year One of the programme. . Resources Details about the resources available to you for your research and training. . Administrative Matters Information about the administrative support available to you. . Student Support Details about how we will try to support you during your studies. . Facilities Scientific facilities and resources that maybe available to you during your PhD. . Timetable A detailed timetable of the Year One training programme. .",
-    "url": "/",
+    "content": "# Student Handbook *This is a student handbook for the HDRUK-Turing PhD Programme in Health Data Science. Information contained within here is only appropriate to students registered on the course.* ## Contents [**Introduction**](/course_docs/introduction.html) A word from the Directors about the programme, its mission and our expectations of our students. [**Programme Background**](/course_docs/background.html) Overview of the programme and its history. [**Programme Details**](/course_docs/programme/programme.html) Detailed information about the programme and its training elements. [**Staff**](/course_docs/staff.html) Information about the people who run the programme. [**Choosing your PhD**](/course_docs/phd-choice.html) Details about the PhD project selection process. [**Feedback, monitoring, assessment**](/course_docs/monitoring.html) Information about how we will monitor and assess your progress. [**Progression**](/course_docs/progression.html) Requirements that you will need to maintain during your PhD. [**After the first year ...**](/course_docs/training.html) Information about how we will support you after Year One of the programme. [**Resources**](/course_docs/resources.html) Details about the resources available to you for your research and training. [**Administrative Matters**](/course_docs/admin.html) Information about the administrative support available to you. [**Student Support**](/course_docs/support.html) Details about how we will try to support you during your studies. [**Facilities**](/course_docs/facilities.html) Scientific facilities and resources that maybe available to you during your PhD. [**Timetable**](/course_docs/timetable.html) A detailed timetable of the Year One training programme. ",
+    "url": "http://localhost:4000/",
     "relUrl": "/"
   }
-  
 }

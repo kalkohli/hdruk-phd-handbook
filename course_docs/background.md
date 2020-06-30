@@ -26,4 +26,4 @@ Our programme is delivered in collaboration with seven university partners:
 - [University of Manchester](http://www.manchester.ac.uk)
 - [University College London](http://www.ucl.ac.uk)
 
-Students will be registered at one of our partner universities during their studies and all students will undertake training courses and activities delivered by each university.
+Students will be registered at one of our partner universities during their studies and all  will undertake training courses and activities delivered by each university.
