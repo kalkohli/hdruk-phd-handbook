@@ -16,30 +16,27 @@ nav_order: 2
 
 # C2: Probability & Statistics
 
-Organisers: Peter Diggle, Christopher Yau
-
 ## Overview
 
-The aims of this course are to introduce students to the role of statistics in scientific research, and to the fundamental results in probability that provide the theoretical basis of many statistical methods used to analysis scientific data. The emphasis throughout will be on general concepts rather than specific techniques that can be learnt through a combination of directed reading and practical application.
-The course will be delivered thoughr a series of four online lectures, follow-up tutorial discussions and suggestions for practical work that students can complete in their own time.
+
 
 ## Syllabus
 
-1. **Probability** (CY)
+1. **Probability** 
 	- Laws of probability
 	- conditional probability
 	- Bayes Theorem
 	- random variables
 	- families of probability distributions 
 	- moments (expectation, variance)
-2.	**Statistics and scientific method** (PJD)
+2.	**Statistics and scientific method** 
 	- Design principles (randomisation, blocking)
 	- statistical modelling (inputs and outputs, fixed and random effects, parameters, residuals)- statistical inference (populations and samples, estimation, testing, prediction) 
-3.	**Likelihood-based inference** (PJD)
+3.	**Likelihood-based inference** 
 	- Likelihood function
 	- properties of MLEs and GLRTs; role of likelihood in Bayesian parametric inference
 	- Monte Carlo methods (MCML and MCMC)
-4.	**Probability and Bayesian inference** (CY)
+4.	**Probability and Bayesian inference**
 	- Exchangeability
 	- De Finetti’s Theorem
 	- Bayesian inference revisited

@@ -9,19 +9,20 @@ nav_order: 3
 
 ## Year 1
 
-### [C1: Computing](courses/c1computing.md)
+### The Common Core specification:
 
-### [C2: Probability & Statistics](courses/c2probstats.md)
+- [C1: Computing](courses/c1computing.md)
+- [C2: Probability & Statistics](courses/c2probstats.md)
+- [C3: Biology](courses/c3biology.md)
+- [C4: Reproducible Research](courses/c4reproducibility.md)
+- [C5: Research Ethics](courses/c5ethics.md)
+- [C6: Team Science and Communications](courses/c6teamscience.md)
 
-### [C3: Biology](courses/c3biology.md)
+### Training Courses
 
-### [C4: Reproducible Research](courses/c4reproducibility.md)
+- [Foundations of Probability and Statistics](courses/probstatsfoundations.md)
+- [Bayesian Machine Learning](courses/bayesml.md)
 
-### [C5: Research Ethics](courses/c5ethics.md)
-
-### [C6: Team Science and Communications](courses/c6teamscience.md)
-
-### [Bayesian Machine Learning](courses/bayesml.md)
 
 ## Year 2
 
