@@ -13,4 +13,4 @@ this is a test admin page
 
 This is a photo of chris yau
 
-![chris yau][images/avatar.jpg]
+![chris yau](images/avatar.jpg)
