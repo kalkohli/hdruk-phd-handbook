@@ -7,7 +7,7 @@ has_children: true
 
 # Staff
 
-## Programme Staff
+## Programme Operations Staff
 
 These are the team responsible for the day-to-day running of the programme.
 
