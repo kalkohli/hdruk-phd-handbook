@@ -10,3 +10,7 @@ has_children: true
 this is a test admin page
 
 12345
+
+This is a photo of chris yau
+
+![chris yau][images/avatar.jpg]
