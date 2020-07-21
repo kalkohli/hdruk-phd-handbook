@@ -7,6 +7,8 @@ has_children: true
 
 # Administration
 
+## Sub heading
+
 this is a test admin page
 
 12345
