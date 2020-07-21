@@ -5,7 +5,15 @@ nav_order: 10
 has_children: true
 ---
 
-# Administration
+# Administration Heading
+
+## Subheading
+
+### Subsubheading
+
+*italics*
+
+**bold**
 
 this is a test admin page
 
