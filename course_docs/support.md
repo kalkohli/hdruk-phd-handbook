@@ -21,6 +21,54 @@ Your home university should provide you with information detailing their institu
 
 After you have chosen your main PhD research topic and supervisory team at the end of Year 1, your academic support will normally transfer from your Year 1 graduate tutor to the lead research supervisor and any additional members of the supervisory team as appropriate. They will often be your first destination for further support but where applicable you may wish to use other home university resources and services. Please consult your home university student services for details.
 
+### Student Wellbeing ###
+Taking care of your mental health and wellbeing is important to us.  Your home university provides a dedicated service for students where you can access support, advice, and guidance on how to look after your mental health and wellbeing throughout your PhD studies.  You can also find out about Disability Support Services provision as well as range of other student support services.
+
+Links to HDR UK University Student Support departments are provided below.
+
+**Queen's University Belfast**
+
+https://www.qub.ac.uk/directorates/sgc/wellbeing/
+https://www.qub.ac.uk/directorates/sgc/wellbeing/InformationforStudents/SupportAvailable/
+http://www.qub.ac.uk/Study/PostgraduateStudy/Facilities/SupportServices/
+
+**University of Birmingham**
+
+https://www.birmingham.ac.uk/study/birmingham/campus/student-support.aspx
+https://www.birmingham.ac.uk/postgraduate/support/index.aspx
+
+**University of Cambridge**
+
+https://www.studentwellbeing.admin.cam.ac.uk/
+
+https://www.graduate.study.cam.ac.uk/why-cambridge/support
+
+
+**University College London**
+
+https://www.ucl.ac.uk/students/student-support-and-wellbeing
+
+https://www.ucl.ac.uk/students/support-and-wellbeing/mental-health-and-wellbeing/additional-sources-support-phd-students
+
+**University of Edinburgh**
+
+https://www.ed.ac.uk/students/new-students/student-support
+
+https://www.ed.ac.uk/students/health-wellbeing
+
+**University of Manchester**
+
+http://www.studentsupport.manchester.ac.uk/taking-care/
+
+https://www.manchester.ac.uk/study/experience/student-support/
+
+**University of Oxford**
+
+https://www.ox.ac.uk/admissions/graduate/student-life/support-and-welfare
+
+https://www.ox.ac.uk/students/welfare
+
+
 ## Support from us
 
 Our students will also uniquely have support external to their university via the programme. This could be members of the Programme Operations Team or members of the Executive Board not at your University.
