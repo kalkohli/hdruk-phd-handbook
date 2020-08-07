@@ -1,29 +1,16 @@
 ---
 layout: default
-title: Background
+title: Overview
 nav_order: 2
 ---
 
-# Background
+# About the Programme
 
-## History
+This four-year programme in Health Data Science includes one year of foundational training followed by a three-year thesis project. Our underlying philosophy is that health data science requires a combination of expertise spanning three fundamental areas: statistical, computational and health sciences.
 
-In 2019, [Health Data Research UK](http://www.hdruk.ac.uk) (HDRUK) and the [Alan Turing Institute](http://www.turing.ac.uk) (Turing) decided to combined forces to submit an ambitious application for a PhD Programme in Health Data Science to the [Wellcome Trust](http://www.wellcome.ac.uk) led by Professors Peter Diggle and Christopher Yau. 
+We recruit students whose academic background is in the quantitative disciplines, and train them to operate as members of multi-disciplinary teams with each member an expert in one of the fundamental areas but conversant in all three.
 
-Our aim was to create a unique national PhD programme, formed from a distributed network of students based across an HDRUK/Turing university partnership network, which adheres to HDRUK's "One Institute" strategy which aims to unite the UK's health data to enable discoveries that improve people's lives. We believe that collaborations and partnerships are vital to ensuring that health data is used effectively and this is a philosophy that we will instill in our PhD cohorts.  
+Students on the programme are registered at one of seven partner universities but can also draw on academic expertise from across the HDRUK and Turing university network across the UK.
+Each student is supervised by a quantitative methods and a substantive health research expert. Co-funded projects with non-academic partners include a third supervisor drawn from the partner organisation.
 
-After a rigourous assessment by an international panel, our application was accepted for funding and we began our first recruitment for PhD students at the end of 2019.
-
-## University Partners
-
-Our programme is delivered in collaboration with seven university partners:
-
-- [Queen's University Belfast](http://www.qub.ac.uk)
-- [University of Birmingham](http://www.birmingham.ac.uk)
-- [University of Cambridge](http://www.cam.ac.uk)
-- [University of Edinburgh](http://www.ed.ac.uk)
-- [University of Oxford](http://www.oxford.ac.uk)
-- [University of Manchester](http://www.manchester.ac.uk)
-- [University College London](http://www.ucl.ac.uk)
-
-Students will be registered at one of our partner universities during their studies and all  will undertake training courses and activities delivered by each university.
+Training events are hosted by the partner universities. These include short courses and  "immersions" courses that we have designed with the twin aims of expanding the students’ skills base in preparation for their thesis work in years two to four and encouraging UK-wide networking, both within the student cohort and with other, like-minded students at our partner universities.
