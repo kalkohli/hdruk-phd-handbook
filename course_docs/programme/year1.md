@@ -29,9 +29,9 @@ It is split into six components with detailed outlines are given in [Courses](co
 	5. Ethics
 	6. Team Science and Communication 
 
-At the start of the course, each student will complete a [self-evaluation checklist](dummy.md) to measure their existing competencies against the Common Core. Some students will have extensive prior experience in some areas, but maybe little to none in others. We established the Common Core as a means to support students to identify their unique needs for training and development.
+At the start of the course, each student will complete a [self-evaluation checklist](trainingrecord) to measure their existing competencies against the Common Core. Some students will have extensive prior experience in some areas, but maybe little to none in others. We established the Common Core as a means to support students to identify their unique needs for training and development.
 
-During the first year, students will continually update an [evidence-based training record](dummy.md) where they will map the activities contained in the various training courses to the Common Core. The intention is for each student to reflect on the training provided and to understand how their experiences align with the Common Core. This is not intended to be a "tick box" exercise. The training record will form part of the progress review at the end of Year 1.
+During the first year, students will continually update an [evidence-based training record](trainingrecord) where they will map the activities contained in the various training courses to the Common Core. The intention is for each student to reflect on the training provided and to understand how their experiences align with the Common Core. This is not intended to be a "tick box" exercise. The training record will form part of the progress review at the end of Year 1.
 
 ## Immersion Weeks 
 
