@@ -26,9 +26,6 @@ Information about how we will monitor and assess your progress.
 [**Progression**](course_docs/progression.md)  
 Requirements that you will need to maintain during your PhD.
 
-[**After the first year ...**](course_docs/training.md)  
-Information about how we will support you after Year One of the programme.
-
 [**Resources**](course_docs/resources.md)  
 Details about the resources available to you for your research and training.
 
@@ -37,9 +34,6 @@ Information about the administrative support available to you.
 
 [**Student Support**](course_docs/support.md)  
 Details about how we will try to support you during your studies.
-
-[**Facilities**](course_docs/facilities.md)  
-Scientific facilities and resources that maybe available to you during your PhD.
 
 [**Timetable**](course_docs/timetable.md)  
 A detailed timetable of the Year One training programme.
