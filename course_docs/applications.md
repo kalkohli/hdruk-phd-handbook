@@ -27,6 +27,6 @@ Applications for the first cohort (2020-21 intake) of the HDR UK PhD Programme a
 
 - [Sign up for our mailing list](https://www.turing.ac.uk/work-turing/studentships/hdruk-turing-wellcome-studentships-mailing-list)
 
-Health Data Research UK and The Alan Turing Institute are committed to championing equality, diversity, and inclusion. If you have questions about the studentships or require adjustments to the application process, please contact the **Academic Recruitment team** via email ([academic-recruitment@turing.ac.uk](academic-recruitment@turing.ac.uk)) or telephone (**+44 (0)203 862 3345**).  
+Health Data Research UK and The Alan Turing Institute are committed to championing equality, diversity, and inclusion. If you have questions about the studentships or require adjustments to the application process, please contact the **Programme Administration team** via email ([phd@hdruk.ac.uk](academic-recruitment@turing.ac.uk)) or telephone (**+44 (0)203 862 3379**).  
 
 For more information about how we process applicant’s data please view our [Transparency Notice](https://www.hdruk.ac.uk/wp-content/uploads/2019/11/Transparency-notice-for-HDRUK-Turing-PhD-Programme-applications.pdf).
