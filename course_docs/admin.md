@@ -15,11 +15,11 @@ Kal Kohli, Doctoral Programme Coordinator (HDR UK)
 
 Claudia Carranza, Academic Recruitment Manager (maternity cover for Amy Gallimore)
 
-**Contact us by email at:** phd@hdruk.ac.uk  
+**Contact us by email at:** [phd@hdruk.ac.uk](phd@hdruk.ac.uk)
 We aim to respond to your enquiry within 3 working days.  Alternatively, If your enquiry is urgent, please call Kal Kohli on +44(0)20 3862 3379.
 
 ## Financial queries
-If you or your university have any questions or queries relating to the payment of fees or stipend for your studentship, please contact the Administration Team in the first instance at phd@hdruk.ac.uk
+If you or your university have any questions or queries relating to the payment of fees or stipend for your studentship, please contact the Administration Team in the first instance at [phd@hdruk.ac.uk](phd@hdruk.ac.uk)
 
 **Your stipend is paid to you by your university.  If you have questions about the frequency of these payments, please contact your department.**
 
