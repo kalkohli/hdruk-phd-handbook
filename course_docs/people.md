@@ -36,7 +36,7 @@ The University of Manchester
 
 --
 
-HDRUK PhD Programme Coordinator, [Kal Kolhi](https://www.turing.ac.uk/people/business-team)
+HDRUK PhD Programme Coordinator, [Kal Kohli](https://www.turing.ac.uk/people/business-team)
 
 Kal is part of the Business Team at the Alan Turing Institute. She supports HDRUK as Coordinator for the PhD Programme in Health Data Science. 
 
