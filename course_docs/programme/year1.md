@@ -55,12 +55,12 @@ Students will undertake two mini-projects to develop their experience of working
 organise an event 
 at which students can present their findings to the wider group. Each project will be supervised by a member of the programme staff and the data-owner. 
 
-## Choosing a PhD project/supervisors
+## Choosing a PhD project and supervisory team
 
 We recognise that some students will join the project with an idea of thesis topics that particularly interest them, but we encourage all
 students to keep an open mind on this, and to use the first year as an opportunity to find out about a wide range of thesis topics and potential supervisors.
 
-The formal process for approving a thesis topis is that potential supervisory teams will submit PhD proposals to the Exective Board, but we 
+The formal process for approving a thesis topic is that potential supervisory teams will submit PhD proposals to the Exective Board, but we 
 would like students to be pro-active in contacting
 potential supervisors to discuss a possible match between their and the supervisors' interests. 
  Each proposal should: address a substantive scientific problem and involve a strong computational and statistical component; give a detailed description
