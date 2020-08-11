@@ -58,9 +58,20 @@ at which students can present their findings to the wider group. Each project wi
 ## Choosing a PhD project/supervisors
 
 We recognise that some students will join the project with an idea of thesis topics that particularly interest them, but we encourage all
-students to keep an open mind on this, to use the first year as an opportunity to find out about a wide range of thesis topics and to be pro-active in contacting
-potential supervisors. We expect each student to have defined their PhD research topic and supervisory team by late June 2020, and to include in their supervisory team
-both a quantitative methods expert and a substantive helath science expert. 
+students to keep an open mind on this, and to use the first year as an opportunity to find out about a wide range of thesis topics and potential supervisors.
+
+The formal process for approving a thesis topis is that potential supervisory teams will submit PhD proposals to the Exective Board, but we 
+would like students to be pro-active in contacting
+potential supervisors to discuss a possible match between their and the supervisors' interests. 
+ Each proposal should: address a substantive scientific problem and involve a strong computational and statistical component; give a detailed description
+ for any project-specific training needs; describe how the project will develop the student’s team science skills; include a publication plan 
+ that gives students the opportunity to publish methodological work in advance of their project’s substantive findings.
+Through this process, We expect each student to have identified their PhD research topic and supervisory team by late June 2020, and for their supervisory team
+to include
+both a quantitative methods expert and a substantive health science expert. Industry co-funded projects will include a third
+supervisor drawn from the co-funding organisation.
+
+
 
 ## Assessment
 
