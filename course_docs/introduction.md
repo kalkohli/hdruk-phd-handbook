@@ -24,7 +24,7 @@ as well as the leadership, of this PhD Programme. We
 are ably assisted in both of these roles by an Executive Committee that includes at least one academic lead from each of the seven universities at
 which students on the Programme can initially register for their doctoral studies - [Queen's Belfast](https://www.qub.ac.uk/), 
 [Birmingham](https://www.birmingham.ac.uk/), [Cambridge](https://www.cam.ac.uk/), [Edinburgh](https://www.ed.ac.uk/), 
-[Manchester](https://www.manchester.ac.uk/),[Oxford](https://www.ox.ac.uk/), [University College London](https://www.ucl.ac.uk/). 
+[Manchester](https://www.manchester.ac.uk/), [Oxford](https://www.ox.ac.uk/), [University College London](https://www.ucl.ac.uk/). 
 
 Each of you is both a member of the HDRUK/Turing Wellcome PhD Programme and a research student at your university. What this
 will mean in practice is somthing we will discover together in the months ahead. My hope and expectation is that each of you will
