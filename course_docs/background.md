@@ -14,4 +14,4 @@ Students on the programme are registered at one of seven partner universities bu
 network of more than 20 universities.
 Each student is supervised by a quantitative methods and a substantive health research expert. Co-funded projects with non-academic partners include a third supervisor drawn from the partner organisation.
 
-Training events are hosted by the partner universities. These include short courses and  "immersions"  that we have designed with the twin aims of: expanding the students’ skills base in preparation for their thesis work in years two to four;  encouraging UK-wide networking, both within the student cohort and with other, like-minded students at our partner universities.
+Training events are hosted by the partner universities. These include short courses and  "immersions"  that we have designed to meet two broad aims: expanding the students’ skills base in preparation for their thesis work in years two to four; encouraging UK-wide networking, both within the student cohort and with other, like-minded students at our partner universities.
