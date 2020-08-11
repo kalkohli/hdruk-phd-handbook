@@ -14,11 +14,12 @@ nav_order: 1
 
 We are excited to welcome you to the start of your doctoral studies with us at [Health Data Research UK](http://www.hdruk.ac.uk) in 
 partnership with the [Alan Turing Institute](https://www.turing.ac.uk/). This partnership brings to the Programme the combined
-expertise of two national institutes: Health Data Research UK (Health Data Science) and The Alan Turing Institute (Data Science and Artificial Intelligence). It is funded by the  [Wellcome Trust](https://wellcome.ac.uk/) and champions their principles of scientific excellence and changing research culture for the better.
+expertise of two national institutes: Health Data Research UK (Health Data Science) and 
+The Alan Turing Institute (Data Science and Artificial Intelligence). It is funded by the  [Wellcome Trust](https://wellcome.ac.uk/) and champions their principles of scientific excellence and changing research culture for the better.
 
 In addition to our roles as Programme Director and Co-Director, we hold academic posts at
 [Lancaster University](http://www.lancaster.ac.uk/staff/diggle) (Peter) 
-and at the [University of Manchester](https://www.manchester.ac.uk/) (Chris) and are looking forward to being involved in the delivery, 
+and at the [University of Manchester](https://www.manchester.ac.uk/...) (Chris) and are looking forward to being involved in the delivery, 
 as well as the leadership, of this PhD Programme. We
 are ably assisted in both of these roles by an Executive Committee that includes at least one academic lead from each of the seven universities at
 which students on the Programme can initially register for their doctoral studies - [Queen's Belfast](https://www.qub.ac.uk/), 
