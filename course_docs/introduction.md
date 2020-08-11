@@ -18,12 +18,12 @@ expertise of two national institutes: Health Data Research UK (Health Data Scien
 The Alan Turing Institute (Data Science and Artificial Intelligence). It is funded by the  [Wellcome Trust](https://wellcome.ac.uk/) and champions their principles of scientific excellence and changing research culture for the better.
 
 In addition to our roles as Programme Director and Co-Director, we hold academic posts at
-[Lancaster University](http://www.lancaster.ac.uk/staff/diggle) (Peter) 
-and at the [University of Manchester](https://www.manchester.ac.uk/...) (Chris) and are looking forward to being involved in the delivery, 
+[Lancaster University](http://www.lancaster.ac.uk/) (Peter) 
+and at the [University of Manchester](https://www.manchester.ac.uk/) (Chris) and are looking forward to being involved in the delivery, 
 as well as the leadership, of this PhD Programme. We
 are ably assisted in both of these roles by an Executive Committee that includes at least one academic lead from each of the seven universities at
 which students on the Programme can initially register for their doctoral studies - [Queen's Belfast](https://www.qub.ac.uk/), 
-[Birmingham], [Cambridge](https://www.cam.ac.uk/), [Edinburgh](https://www.ed.ac.uk/), 
+[Birmingham](https://www.birmingham.ac.uk/), [Cambridge](https://www.cam.ac.uk/), [Edinburgh](https://www.ed.ac.uk/), 
 [Manchester](https://www.manchester.ac.uk/),[Oxford](https://www.ox.ac.uk/), [University College London](https://www.ucl.ac.uk/). 
 
 Each of you is both a member of the HDRUK/Turing Wellcome PhD Programme and a research student at your university. What this
