@@ -18,7 +18,7 @@ expertise of two national institutes: Health Data Research UK (Health Data Scien
 
 In addition to our roles as Programme Director and Co-Director, we hold academic posts at
 [Lancaster University](http://www.lancaster.ac.uk/staff/diggle) (Peter) 
-and at the [University of Manchester](https://www.manchester.ac.uk/...) (Chris) and are looking forward to being involved in the delivery, 
+and at the [University of Manchester](https://www.manchester.ac.uk/) (Chris) and are looking forward to being involved in the delivery, 
 as well as the leadership, of this PhD Programme. We
 are ably assisted in both of these roles by an Executive Committee that includes at least one academic lead from each of the seven universities at
 which students on the Programme can initially register for their doctoral studies - [Queen's Belfast](https://www.qub.ac.uk/), 
