@@ -1,7 +1,7 @@
 ---
 layout: default
-title: People
-nav_order: 2.6
+title: People-Web
+nav_order: 0.5
 ---
 
 # People

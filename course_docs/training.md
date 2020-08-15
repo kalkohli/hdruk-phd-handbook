@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Training
-nav_order: 2.4
+title: Training-Web
+nav_order: 0.3
 ---
 
 # Our Training Programme
@@ -18,12 +18,11 @@ In-person and digital distance learning, delivered by HDR UK researchers, Turing
 
 Example topics include:
 
-- Foundations of Probability and Statistics
+- Probability and Statistics
+- Foundations of Biology
 - Machine Learning
 - Reproducible Science
 - Data Ethics
-*to be completed*
-
 
 ### Immersions
 
@@ -31,12 +30,10 @@ Residentials immersion events to gain deep insight into the work of HDR UK, our 
 
 Example immersion topics include:
 
-- Risk Prediction Models
+- Risk Prediction 
 - Clinical Trials
 - Epidemiology
 - Bioinformatics
-*to be completed*
-
 
 ### Researcher Development
 
@@ -46,7 +43,10 @@ Training delivered by academic, industry and NHS experts to promote personal and
 
 During years 2-4, you will select a research project based on your interests from year 1, undertaken at one of our [partner universities](partners.md). Throughout the programme you will be co-supervised by *at least* one expert in quantitative methods and one in substantive health research, with potential input from non-academic partner organisations.
 
-### Example PhD research projects
+PhD research projects could be linked to:
 
-*to be completed*
+- [Our Research Priorities](https://www.hdruk.ac.uk/how-we-use-health-data/)
+- [Our Research Hubs](https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/)
+- [Our Partnerships](https://www.hdruk.ac.uk/about-us/partner-organisations/)
+
 

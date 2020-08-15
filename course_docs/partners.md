@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Our Partners
+title: Our Partners-Web
 nav_order: 2
 ---
 

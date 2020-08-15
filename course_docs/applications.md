@@ -1,7 +1,7 @@
 ---
 layout: default
-title: How to Apply
-nav_order: 2.5
+title: How to Apply-Web
+nav_order: 0.4
 ---
 
 # Applying for the Programme
