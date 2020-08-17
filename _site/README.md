@@ -35,5 +35,5 @@ Information about the administrative support available to you.
 [**Student Support**](course_docs/support.md)  
 Details about how we will try to support you during your studies.
 
-[**Timetable**](course_docs/timetable.md)  
-A detailed timetable of the Year One training programme.
+[**Timetable**](course_docs/timetable/timetable.md)  
+Timetable of the training programme for each cohort.
