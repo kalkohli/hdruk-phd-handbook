@@ -22,11 +22,27 @@ nav_order: 1
 
 ## Overview
 
-The aims of this course are to introduce students to the role of statistics in scientific research, and to the fundamental results in probability that provide the theoretical basis of many statistical methods used to analysis scientific data. The emphasis throughout will be on general concepts rather than specific techniques that can be learnt through a combination of directed reading and practical application.
-
-The course will be delivered thoughr a series of four online lectures, follow-up tutorial discussions and suggestions for practical work that students can complete in their own time.
+This course  aims to introduce students to the role of statistics in scientific research, and to the fundamental results in probability that provide the theoretical basis of many statistical methods used to analysis scientific data. The emphasis throughout will be on general concepts rather than specific techniques that can be learnt through a combination of directed reading and practical application.
+The course will be delivered though a series of online lectures, follow-up tutorial discussions and suggestions for practical work that students can complete in their own time.
 
 ## Syllabus
 
+1.	Statistics and scientific method
+	- Investigating Newton’s law; systematic and random variation; inference - estimation, testing, prediction
+2.	Experimental design and analysis
+	- Blocking, randomisation, controlling and adjusting; design and analysis of simple comparative experiments
+3.	Probability
+	- Laws of probability; conditional probability; Bayes Theorem; random variables; parametric families of probability distributions
+4.	Likelihood-based inference 
+	- Likelihood function; properties of MLEs and GLRTs; Bayesian parametric inference; Monte Carlo methods
+5.	Dependent data
+	- From random variables to stochastic processes; time series data; geospatial data
+
 
 ## Reading List
+
+1. Clayton, D. and Hills, M. (1993). Statistical Models in Epidemiology. Oxford: Oxford University Press. 
+2. Diggle, P.J. and Chetwynd, A.G. (2011). Statistics and Scientific Method: an Introduction for Students and Researchers. Oxford: Oxford University Press. 
+3. Gamerman, D. and Lopes, H.F. (2006). Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference (Second Edition). Boca Raton: Chapman and Hall/CRC Press
+4. Grimmett, G. and Welsh, D. (2014). Probability: An Introduction (second edition). Oxford: Oxford University Press
+5. Lindley, D.V. (2000). The philosophy of statistics (with Discussion). The Statistician, 49, 293--337.

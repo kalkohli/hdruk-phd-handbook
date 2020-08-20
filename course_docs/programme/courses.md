@@ -26,6 +26,12 @@ nav_order: 3
 
 ## Year 2
 
+- [Leadership in Healthcare](courses/leadership.md)
+
 ## Year 3
 
+- [Leadership in Healthcare](courses/leadership.md)
+
 ## Year 4
+
+- [Leadership in Healthcare](courses/leadership.md)
