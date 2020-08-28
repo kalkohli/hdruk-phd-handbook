@@ -22,7 +22,7 @@ nav_order: 3
 
 - [Introduction to Biology](courses/introbiology.md)
 - [Foundations of Probability and Statistics](courses/probstatsfoundations.md)
-- [Thinking about Machine Learning](courses/thinkingaboutml.md)
+- [Machine Learning Design](courses/thinkingaboutml.md)
 
 
 ## Year 2

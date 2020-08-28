@@ -23,3 +23,5 @@ nav_order: 1
 - To understand the principles of best software development practice and engineering
 
 - To have written software to perform computational and/or statistical tasks for a real-world health data science problem
+
+- To have used version control software (e.g. Github)

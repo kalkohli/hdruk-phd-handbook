@@ -121,7 +121,7 @@
   },"20": {
     "doc": "C1 Computing",
     "title": "Key Skills and Competencies",
-    "content": ". | To be able to proficiently write software in a high-level programming language (e.g. R or Python) . | To understand the principles of best software development practice and engineering . | To have written software to perform computational and/or statistical tasks for a real-world health data science problem . | . ",
+    "content": ". | To be able to proficiently write software in a high-level programming language (e.g. R or Python) . | To understand the principles of best software development practice and engineering . | To have written software to perform computational and/or statistical tasks for a real-world health data science problem . | To have used version control software (e.g. Github) . | . ",
     "url": "http://localhost:4000/course_docs/programme/courses/c1computing.html#key-skills-and-competencies",
     "relUrl": "/course_docs/programme/courses/c1computing.html#key-skills-and-competencies"
   },"21": {
@@ -259,7 +259,7 @@
   },"43": {
     "doc": "Courses",
     "title": "Year 1",
-    "content": "The Common Core specification: . | C1: Computing | C2: Probability &amp; Statistics | C3: Biology | C4: Reproducible Research | C5: Research Ethics | C6: Team Science and Communications | . Training Courses . | Introduction to Biology | Foundations of Probability and Statistics | Thinking about Machine Learning | . ",
+    "content": "The Common Core specification: . | C1: Computing | C2: Probability &amp; Statistics | C3: Biology | C4: Reproducible Research | C5: Research Ethics | C6: Team Science and Communications | . Training Courses . | Introduction to Biology | Foundations of Probability and Statistics | Machine Learning Design | . ",
     "url": "http://localhost:4000/course_docs/programme/courses.html#year-1",
     "relUrl": "/course_docs/programme/courses.html#year-1"
   },"44": {
