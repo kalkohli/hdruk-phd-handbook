@@ -17,7 +17,7 @@ These are the team responsible for the day-to-day running of the programme.
 | Peter Diggle      | Director | Lancaster/HDRUK | [Link](https://www.lancaster.ac.uk/staff/diggle) |
 | Christopher Yau      | Co-Director  | Manchester/Turing | [Link](https://www.turing.ac.uk/people/researchers/christopher-yau) |
 | Kal Kohli | Doctoral Programme Coordinator | Turing | [Link]() |
-| Amy Gallimore | Recruitment Coordinator | Turing | [Link](https://www.turing.ac.uk/people/business-team/amy-gallimore) |
+| Claudia Carranza (cover for Amy Gallimore) | Recruitment Coordinator | Turing | [Link](https://www.turing.ac.uk/people/business-team/amy-gallimore) |
 
 
 ## Executive Board
