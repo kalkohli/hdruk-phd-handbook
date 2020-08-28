@@ -16,16 +16,10 @@ nav_order: 5
 
 # C5: Research Ethics
 
-**Organisers:** XXX
+## Key Skills and Competencies
 
-## Overview
+- To understand the wider social and ethical implications of health data research
 
-XXX
+- To recognise the practial challenges of information security for health data linkage and analytics 
 
-## Syllabus
-
-XXX
-
-## Reading list
-
-XXX
+- To have consider these factors in the development of your PhD research proposal

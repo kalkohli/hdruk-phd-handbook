@@ -16,12 +16,4 @@ nav_order: 2
 
 ---
 
-After your doctoral research project has begun ...
-
-# Beginning your PhD
-
-At the start of Year 2 ...
-
-# Ongoing Training
-
-Students will undertake a bespoke training programme ...
+At the start of Year 2, you will begin your three-year doctoral research work based at your home university. Your research activities will be bespoke to your chosen research topic and approach. Our programme will continue to support you through this period with further training opportunities including our Leadership Training course.

@@ -16,16 +16,10 @@ nav_order: 3
 
 # C3: Biology
 
-**Organisers:** XXX
+## Key Skills and Competencies
 
-## Overview
+- To have acquire a basic understanding of key molecular and cellular biology concepts
 
-XXX
+- To have demonstrated the ability to understand more about biological concepts through self-directed learning and guided support
 
-## Syllabus
-
-XXX
-
-## Reading list
-
-XXX
+- To have presented (orally or in written form) reports on biological topics outside your normal area of expertise

@@ -16,16 +16,12 @@ nav_order: 6
 
 # C6: Team Science and Communication Skills
 
-**Organisers:** XXX
+## Key Skills and Competencies
 
-## Overview
+- To understand the motivation for the "One Institute" concept of HDRUK
 
-XXX
+- To recognise that the scale of modern health problems requires a multi-individual, multi-organisational collaborative approach
 
-## Syllabus
+- To develop an effective means of working with others on agile scientific projects
 
-XXX
-
-## Reading list
-
-XXX
+- To understand different modes of communication and roles in team science

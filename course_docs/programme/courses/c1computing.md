@@ -16,16 +16,10 @@ nav_order: 1
 
 # C1: Computing
 
-**Organisers:** XXX
+## Key Skills and Competencies
 
-## Overview
+- To be able to proficiently write software in a high-level programming language (e.g. R or Python)
 
-XXX
+- To understand the principles of best software development practice and engineering
 
-## Syllabus
-
-XXX
-
-## Reading list
-
-XXX
+- To have written software to perform computational and/or statistical tasks for a real-world health data science problem

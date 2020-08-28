@@ -20,8 +20,9 @@ nav_order: 3
 
 ### Training Courses
 
+- [Introduction to Biology](courses/introbiology.md)
 - [Foundations of Probability and Statistics](courses/probstatsfoundations.md)
-- [Bayesian Machine Learning](courses/bayesml.md)
+- [Thinking about Machine Learning](courses/thinkingaboutml.md)
 
 
 ## Year 2

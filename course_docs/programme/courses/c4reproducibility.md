@@ -16,16 +16,10 @@ nav_order: 4
 
 # C4: Reproducible Research
 
-**Organisers:** XXX
+## Key Skills and Competencies
 
-## Overview
+- To understand the importance of reproducibility in science
 
-XXX
+- To have understood the processes involved in reproducible data science
 
-## Syllabus
-
-XXX
-
-## Reading list
-
-XXX
+- To exercise those skills for a real-world project
