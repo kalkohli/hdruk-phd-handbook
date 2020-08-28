@@ -8,9 +8,6 @@
 [**Introduction**](course_docs/introduction.md)  
 A word from the Directors about the programme, its mission and our expectations of our students.
 
-[**Programme Background**](course_docs/background.md)  
-Overview of the programme and its history.
-
 [**Programme Details**](course_docs/programme/programme.md)  
 Detailed information about the programme and its training elements.
 
@@ -19,9 +16,6 @@ Information about the people who run the programme.
 
 [**Choosing your PhD**](course_docs/phd-choice.md)  
 Details about the PhD project selection process.
-
-[**Feedback, monitoring, assessment**](course_docs/monitoring.md)  
-Information about how we will monitor and assess your progress.
 
 [**Progression**](course_docs/progression.md)  
 Requirements that you will need to maintain during your PhD.
