@@ -53,7 +53,7 @@ Get the latest tweets by following, posting, and sharing information on Twitter:
 
 [@wellcometrust](https://twitter.com/wellcometrust)
 
-You can also join our dedicated Slack channel, for HDR UK PhD students, to discuss your research, share ideas and connect with other students on the Programme.  Join https://hdruk-phd.slack.com/
+You should also join our dedicated Slack channel, for HDR UK PhD students, to discuss your research, share ideas and connect with other students on the Programme.  Join https://hdruk-phd.slack.com/
 
 ## HDR UK Branding & Style Guides
 Brand guidelines and HDR UK logo are available for download [here](https://www.hdruk.ac.uk/about-us/our-strategy/policies/brandstyleguide/)
