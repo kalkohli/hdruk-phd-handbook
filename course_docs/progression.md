@@ -14,7 +14,7 @@ Progression through this PhD programme involves a mixture of milestones set by b
 We expect all our students to:
 
 1. Engage actively and constructively in all aspects of the training programme,
-2. Develop and conduct an approved research plan to obtain your PhD qualification.
+2. Develop and conduct an approved research plan that will lead to your PhD qualification.
 
 At the end of Year One, each student will have an **interview** with the Programme Directors and members of the Executive Board. We will discuss your engagement and contribution to the Year One Training Programme (via your [Evidence-based Training Record](programme/year1.md)) and the contents of your proposed research plan for Years 2-4. 
 

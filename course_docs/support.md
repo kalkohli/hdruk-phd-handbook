@@ -23,11 +23,11 @@ After you have chosen your main PhD research topic and supervisory team at the e
 
 ## Support from us
 
-Our students will also uniquely have support external to their university via the programme. This could be members of the Programme Operations Team or members of the Executive Board not at your University.
+Our students will also have support external to their university via the programme. This could be provided by members of the Programme Operations Team or members of the Executive Board not at your University.
 
 ### The Directors
 
-The Programme Directors should be advised if you are experiencing any difficulties with your studies either because of challenges presented by your working environment or in your personal life. We will provide support to help you overcome any challenges where your home university cannot provide this.
+The Directors will host a weekly series of zoom meetings with the students collectively, at which you can raise and discuss any general issues relating to the programme. You should also advise the Programme Directors if you are experiencing any difficulties with your studies, either because of challenges presented by your working environment or in your personal life. We will provide support to help you overcome any challenges where your home university cannot provide this. 
 
 ### Programme Administration
 
@@ -35,7 +35,7 @@ The Programme Administration team should be advised if you are experiencing any 
 
 ### Executive Board
 
-Our Executive Board consists of highly experienced academics with a wide range of experience across a number of scientific and non-scientific disciplines. Our students are welcome to draw upon these experiences where they require subject- or discipline-specific advice in relation to their research studies or professional development. However, issues which are personal in nature or not research specific should first be directed to the Programme Directors.
+Our Executive Board consists of highly experienced academics with a wide range of experience across a number of disciplines. Our students are welcome to draw upon these experiences where they require subject- or discipline-specific advice in relation to their research studies or professional development. Issues which are personal in nature or not research-specific should first be directed to the Programme Directors.
 
 *All information will be treated strictly confidentiality unless you tell us otherwise*
 

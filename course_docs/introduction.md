@@ -38,8 +38,8 @@ You will spend most of your first
 year engaging in Programme-organised activities. As well as sharpening and adding to your personal took-kit, these
 will give you opportunities to meet
 (if only virtually in the early months) and share ideas with
-your fellow-students and potential thesis co-supervisors from around the UK. I cannot over-emphasise the importance of this. 
-Fundamental to Chris's and my philosophy is that the best health data science is team science, with team members spanning multiple
+your fellow-students and potential thesis co-supervisors from around the UK. We cannot over-emphasise the importance of this. 
+Fundamental to our philosophy is that the best health data science is team science, with team members spanning multiple
 disciplines. We expect this to be reflected in the supervisory teams for your thesis projects and to encourage this
 you will be able to visit, and be co-supervised by, researchers in other universities to give you the best possible
 supervisory team for your thesis work. Your university will also be organising activities for you during your first year, the nature of which will vary across 

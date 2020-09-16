@@ -11,7 +11,7 @@ During Year 1, you will identify a PhD project to carry out in Years 2-4. You wi
 
 ## The Supervision team 
 
-This *must* include a primary supervisor who is based at your home university and co-supervisors who maybe based at another university. We strongly encourage novel cross-university collaborations between HDRUK and Turing-affiliated universities. We also support supervision teams involving early-career academics who may have greater capacity to work with you on a day-to-day basis than very senior academics. Please advise of any non-academic support you may receive (e.g. a company), what their involvement would be and what contractual arrangements are in place to govern these relationships.
+This *must* include a primary supervisor who is based at your home university and co-supervisors who may be based at another university. We strongly encourage novel cross-university collaborations between HDRUK and Turing-affiliated universities. We also very much welcome supervision teams involving early-career academics who may have greater capacity to work with you on a day-to-day basis than very senior academics. Please also advise of any non-academic support you may receive (e.g. a company), what their involvement would be and what contractual arrangements are in place to govern these relationships.
 
 Note that a **primary supervisor** is someone who takes *overall* responsibility for your PhD progression on behalf of your home university. They do not necessarily need to be responsible for setting the research challenge or working with you on a regular basis.
 
@@ -27,17 +27,17 @@ It is unlikely that we would approve projects, for example, primarily involving:
 - Research that only relates to health in an indirect way, 
 - Pure theoretical or methodology research with no evidence of a route to a relevant health application.  
 
-Limited experience in such areas for the purposes of gaining insight or training would be acceptable as part of an overall research plan.
+Your overall research plan may, however include limited experience of, or training in, such areas for the purposes of gaining insight and broadening your understanding of different research methodologies.
 
 ## Publication Plan
 
-Publishing research outputs is an important part of a modern PhD. Outline what research outputs are anticipated. We are particularly interested in evidence that there will be an opportunity for you to produce standalone publishable outputs that are independent of any large collaborative projects that you maybe linked to.
+Publishing research outputs is an important part of a modern PhD. Outline what research outputs are anticipated. We are particularly interested in evidence that your research plan will give you the opportunity to produce standalone publishable outputs that are independent of any large collaborative projects that you may be linked to.
 
 ## Data Access and Ethics
 
 Detail any datasets you require that require special permissions to access. Outline any ethics approvals you may require. Provide an estimated time frame for obtaining data and ethics approvals. 
 
-*Data access or ethics approval delays can place student PhD progression at severe risk. We recommend that proposals have these in place **before** your project begins*. 
+*Delays in data access or ethics approval can place student PhD progression at severe risk. We recommend that proposals have these in place **before** you begin work on your thesis project*. 
 
 ## Risk mitigation plan
 
