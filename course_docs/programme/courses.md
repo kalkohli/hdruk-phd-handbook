@@ -20,9 +20,7 @@ nav_order: 3
 
 ### Training Courses
 
-- [Introduction to Biology](courses/introbiology.md)
 - [Foundations of Probability and Statistics](courses/probstatsfoundations.md)
-- [Machine Learning Design](courses/thinkingaboutml.md)
 
 
 ## Year 2
