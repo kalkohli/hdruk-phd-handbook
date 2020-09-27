@@ -20,6 +20,7 @@ nav_order: 3
 
 ### Training Courses
 
+- [How To Build a Health Data Scientist](courses/howtobuildahealthdatascientist.md)
 - [Foundations of Probability and Statistics](courses/probstatsfoundations.md)
 
 

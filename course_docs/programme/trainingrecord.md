@@ -9,6 +9,10 @@ nav_order: 4
 
 During Year 1 of the Programme, you will maintain an evidence-based training record. This is to help you document your personal development in terms of the skills, knowledge and competencies relevant to health data science. This training record will be examined at the end of year progression interview so you are advised to keep it up-to-date and make logging your training a routine part of your work. You can use any appropriate medium you wish for recording this information (e.g. a Word document) but we hope that you will consider other approaches (e.g. a blog, website, instagram stories) as well. The example you set will likely influence future cohorts!
 
+## How to build a Health Data Scientist
+
+You will first as a cohort come together to build a "Common Core" syllabus.
+
 ## Self-evaluation
 
 At the start of the year, you will undertake a self-evaluation checklist exercise by examining the Common Core descriptions and determining which skills and competencies you already possessed and which you have less or no familiarity with. 
@@ -29,7 +33,7 @@ We have not prescribed a specific form for the checklist. *Be Creative*. However
 
 ## Training Record
 
-During Year 1, we want you to reflect and record your thoughts about the training you have received. WAgain, we do not wish to be prescriptive about what the form of the training record takes, but the following example shows the type of information you might wish to record.
+During Year 1, we want you to reflect and record your thoughts about the training you have received. We do not wish to be prescriptive about what the form of the training record takes, but the following example shows the type of information you might wish to record.
 
 **Example Training Record**
 

@@ -39,17 +39,4 @@ Our Executive Board consists of highly experienced academics with a wide range o
 
 *All information will be treated strictly confidentiality unless you tell us otherwise*
 
-## Other support
-
-## Harassment
-
-HDRUK takes a zero-tolerance policy towards harassment. Details of our policy can be found [here]().
-
-## Disability
-
-HDRUK aims to make our PhD programme as accessible as possible for those with disabilities. Our policy for those living with disabilities is [here]().
-
-## Childcare
-
-HDRUK aims to support student parents. Our policy for those with childcare responsibilities is [here]().
 

@@ -24,15 +24,13 @@ all participants.
 
 ## Induction
 
-The two-day induction meeting 28 and 29 September 2020 is an opportunity for all programme staff and students to meet each other, albeit virtually. It will cover 
-a range of scientific and administrative matters, including overviews of HDRUK's priority research themes and data-resources, and how to make the most of 
-students' opportunities to connect with like-minded students, across the programme and on other programmes within their home unversities.
+The two-day induction meeting 28 and 29 September 2020 is an opportunity for all programme staff and students to meet each other, albeit virtually. It will cover a range of scientific and administrative matters, including overviews of HDRUK's priority research themes and data-resources, and how to make the most of students' opportunities to connect with like-minded students, across the programme and on other programmes within their home unversities.
 
 ## Common Core
 
-The **Common Core** is a syllabus that consists of key knowledge, skills and competencies that we believe should be part of the repertoire of expertise for all health data scientists. 
+The **Common Core** is a student-led "living" syllabus that consists of key knowledge, skills and competencies that  should be part of the repertoire of expertise for doctoral research health data scientists. 
 
-It is split into six components whose detailed descriptions are given in [Courses](courses.md):
+It is split into six components and we have provided some introductory guidance in the following [descriptions](courses.md):
 
 	1. Computing
 	2. Probability & Statistics
@@ -41,9 +39,9 @@ It is split into six components whose detailed descriptions are given in [Course
 	5. Ethics
 	6. Team Science and Communication 
 
-At the start of the course, each student will complete a [self-evaluation checklist](trainingrecord) to measure their existing competencies against the Common Core. Some students will have extensive prior experience in some areas, but maybe little to none in others. The Common Core is intended to help students to identify their personal needs for training and development.
+During your first year, your cohort will undertake an exercise to build and construct this syllabus to reflect your own training needs and aspirations. The model you develop will be inherited by the next cohort and we hope to evolve a syllabus that reflects the ever-changing capability requirements of this field.
 
-During the first year, students will continually update an [evidence-based training record](trainingrecord) where they will map the activities contained in the various training courses to the Common Core. The intention is for each student to reflect on the training provided and to understand how their experiences align with the Common Core. This is not intended to be a "tick box" exercise. The training record will form part of the progress review at the end of Year 1.
+You will use this framework to continually update your own personal [evidence-based training record](trainingrecord). The intention is for you to reflect on the training provided and to understand how their experiences align with the Common Core. This is not intended to be a "tick box" exercise. The training record will form part of the progress review at the end of Year 1.
 
 ## Immersions 
 
