@@ -211,7 +211,7 @@
   },"35": {
     "doc": "Courses",
     "title": "Year 1",
-    "content": "The Common Core specification: . | C1: Computing | C2: Probability &amp; Statistics | C3: Biology | C4: Reproducible Research | C5: Research Ethics | C6: Team Science and Communications | . Training Courses . | How To Build a Health Data Scientist | Foundations of Probability and Statistics | . ",
+    "content": "The Common Core specification: . | C1: Computing | C2: Probability &amp; Statistics | C3: Biology | C4: Reproducible Research | C5: Research Ethics | C6: Team Science and Communications | . Training Courses . | How To Build a Health Data Scientist | Foundations of Probability and Statistics | Clinical Prediction Models | . ",
     "url": "http://localhost:4000/course_docs/programme/courses.html#year-1",
     "relUrl": "/course_docs/programme/courses.html#year-1"
   },"36": {
@@ -425,144 +425,174 @@
     "url": "http://localhost:4000/course_docs/resources.html#computation",
     "relUrl": "/course_docs/resources.html#computation"
   },"71": {
+    "doc": "Clinical Prediction Models",
+    "title": "Table of contents",
+    "content": ". | Clinical Prediction Models . | Overview | Syllabus | Reading List | . | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/riskprediction.html#table-of-contents",
+    "relUrl": "/course_docs/programme/courses/riskprediction.html#table-of-contents"
+  },"72": {
+    "doc": "Clinical Prediction Models",
+    "title": "Clinical Prediction Models",
+    "content": "Organisers: . | Niels Peek (University of Manchester) | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/riskprediction.html",
+    "relUrl": "/course_docs/programme/courses/riskprediction.html"
+  },"73": {
+    "doc": "Clinical Prediction Models",
+    "title": "Overview",
+    "content": "This course aims to introduce students to clinical prediction models including topics such as regression analysis, causal inference and model validation and generalisation. This will be done in the context of health data research. The course will be delivered though a series of online lectures and practicals with follow-up support. There will be an opportunity to see the work of PhD students in the area join a meeting of the North West Clinical Prediction Modelling group. ",
+    "url": "http://localhost:4000/course_docs/programme/courses/riskprediction.html#overview",
+    "relUrl": "/course_docs/programme/courses/riskprediction.html#overview"
+  },"74": {
+    "doc": "Clinical Prediction Models",
+    "title": "Syllabus",
+    "content": ". | Clinical decision making and prediction models. | Regression analysis for health outcomes. | Model validation and generalisation. | Prediction and causal inference. | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/riskprediction.html#syllabus",
+    "relUrl": "/course_docs/programme/courses/riskprediction.html#syllabus"
+  },"75": {
+    "doc": "Clinical Prediction Models",
+    "title": "Reading List",
+    "content": ". | Hastie, Tibshirani, Friedman (2009) The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Second Edition, February 2009. | . ",
+    "url": "http://localhost:4000/course_docs/programme/courses/riskprediction.html#reading-list",
+    "relUrl": "/course_docs/programme/courses/riskprediction.html#reading-list"
+  },"76": {
     "doc": "Staff",
     "title": "Staff",
     "content": " ",
     "url": "http://localhost:4000/course_docs/staff.html",
     "relUrl": "/course_docs/staff.html"
-  },"72": {
+  },"77": {
     "doc": "Staff",
     "title": "Programme Operations Staff",
     "content": "These are the team responsible for the day-to-day running of the programme. | Name | Role | Institution | Link | . | Peter Diggle | Director | Lancaster/HDRUK | Link | . | Christopher Yau | Co-Director | Manchester/Turing | Link | . | Kal Kohli | Doctoral Programme Coordinator | Turing | Link | . | Claudia Carranza (cover for Amy Gallimore) | Recruitment Coordinator | Turing | Link | . ",
     "url": "http://localhost:4000/course_docs/staff.html#programme-operations-staff",
     "relUrl": "/course_docs/staff.html#programme-operations-staff"
-  },"73": {
+  },"78": {
     "doc": "Staff",
     "title": "Executive Board",
     "content": "A panel consisting of representatives from our University Partners and the Alan Turing Institute who advise on the programme implementation and support the development of recruitment, training and research activities. | Name | Institution | Link | . | Mark Lawler | Queen’s Belfast | Link | . | Georgios Gkoutos | Birmingham | Link | . | Iain Styles | Birmingham | Link | . | Sylvia Richardson | Cambridge | Link | . | Angela Wood | Cambridge | Link | . | Miguel Bernabeu | Edinburgh | Link | . | Catalina Vallejos | Edinburgh | Link | . | Ben Cairns | Oxford | Link | . | Niels Peek | Manchester | Link | . | Paul Taylor | UCL | Link | . | Ioanna Manolopoulou | UCL | Link | . | Ben Murton | Turing | Link | . | Kirstie Whitaker | Turing | Link | . ",
     "url": "http://localhost:4000/course_docs/staff.html#executive-board",
     "relUrl": "/course_docs/staff.html#executive-board"
-  },"74": {
+  },"79": {
     "doc": "Student Support",
     "title": "Student Support",
     "content": "Your welfare during your PhD is of the utmost importance to us and you will have access to two main forms of independent support as a student on this programme. ",
     "url": "http://localhost:4000/course_docs/support.html",
     "relUrl": "/course_docs/support.html"
-  },"75": {
+  },"80": {
     "doc": "Student Support",
     "title": "Support from your University",
     "content": "Year 1 . All our first year students will be registered with a member of our Executive Board at your home university. You should have been informed of who this is either by your home university or by us. They will act as your Graduate Tutor/Supervisor in Year 1 of the programme and provide support during the first year of the programme. Please note that this is not the same as your PhD Research Supervisor(s) who will not be chosen until the end of Year 1. Your home university may also allocate other academic staff to support you during your PhD studies. Your home university should provide you with information detailing their institutional student welfare support provisions during your induction or at some point during your first year of study. If you do not feel you have been advised of this information then please contact your home university graduate tutor in the first instance. Years 2-4 . After you have chosen your main PhD research topic and supervisory team at the end of Year 1, your academic support will normally transfer from your Year 1 graduate tutor to the lead research supervisor and any additional members of the supervisory team as appropriate. They will often be your first destination for further support but where applicable you may wish to use other home university resources and services. Please consult your home university student services for details. ",
     "url": "http://localhost:4000/course_docs/support.html#support-from-your-university",
     "relUrl": "/course_docs/support.html#support-from-your-university"
-  },"76": {
+  },"81": {
     "doc": "Student Support",
     "title": "Support from us",
     "content": "Our students will also have support external to their university via the programme. This could be provided by members of the Programme Operations Team or members of the Executive Board not at your University. The Directors . The Directors will host a weekly series of zoom meetings with the students collectively, at which you can raise and discuss any general issues relating to the programme. You should also advise the Programme Directors if you are experiencing any difficulties with your studies, either because of challenges presented by your working environment or in your personal life. We will provide support to help you overcome any challenges where your home university cannot provide this. Programme Administration . The Programme Administration team should be advised if you are experiencing any difficulties with your studies because of administrative problems. Examples might include financial issues with payments of fees or stipends, visa issues for international students, official student documentation, etc. If you are sick or unable to attend planned training activities, the Administration team should be informed in the first instance. Executive Board . Our Executive Board consists of highly experienced academics with a wide range of experience across a number of disciplines. Our students are welcome to draw upon these experiences where they require subject- or discipline-specific advice in relation to their research studies or professional development. Issues which are personal in nature or not research-specific should first be directed to the Programme Directors. All information will be treated strictly confidentiality unless you tell us otherwise . ",
     "url": "http://localhost:4000/course_docs/support.html#support-from-us",
     "relUrl": "/course_docs/support.html#support-from-us"
-  },"77": {
+  },"82": {
     "doc": "Training Record",
     "title": "Year 1 Training and Personal Development",
     "content": "During Year 1 of the Programme, you will maintain an evidence-based training record. This is to help you document your personal development in terms of the skills, knowledge and competencies relevant to health data science. This training record will be examined at the end of year progression interview so you are advised to keep it up-to-date and make logging your training a routine part of your work. You can use any appropriate medium you wish for recording this information (e.g. a Word document) but we hope that you will consider other approaches (e.g. a blog, website, instagram stories) as well. The example you set will likely influence future cohorts! . ",
     "url": "http://localhost:4000/course_docs/programme/trainingrecord.html#year-1-training-and-personal-development",
     "relUrl": "/course_docs/programme/trainingrecord.html#year-1-training-and-personal-development"
-  },"78": {
+  },"83": {
     "doc": "Training Record",
     "title": "How to build a Health Data Scientist",
     "content": "You will first as a cohort come together to build a “Common Core” syllabus. ",
     "url": "http://localhost:4000/course_docs/programme/trainingrecord.html#how-to-build-a-health-data-scientist",
     "relUrl": "/course_docs/programme/trainingrecord.html#how-to-build-a-health-data-scientist"
-  },"79": {
+  },"84": {
     "doc": "Training Record",
     "title": "Self-evaluation",
     "content": "At the start of the year, you will undertake a self-evaluation checklist exercise by examining the Common Core descriptions and determining which skills and competencies you already possessed and which you have less or no familiarity with. Example Self-Evaluation Checklist . We have not prescribed a specific form for the checklist. Be Creative. However, each is an example of the type of information you will want to record. | Common Core Area | Skill/Competency | Capability | . | Computing | Programming | I can program in R and Python with high-proficiency. | . | Computing | Software Development and Version Control | I have no experience of using Github or any other version control software. | . | Probability &amp; Statistics | Bayesian Statistics | I have not studied Bayesian Statistics before. | . | Probability &amp; Statistics | Likelihood-based inference | I have studied likelihood-based inference during my undergraduate degree but I have no practical experience of applying it. | . ",
     "url": "http://localhost:4000/course_docs/programme/trainingrecord.html#self-evaluation",
     "relUrl": "/course_docs/programme/trainingrecord.html#self-evaluation"
-  },"80": {
+  },"85": {
     "doc": "Training Record",
     "title": "Training Record",
     "content": "During Year 1, we want you to reflect and record your thoughts about the training you have received. We do not wish to be prescriptive about what the form of the training record takes, but the following example shows the type of information you might wish to record. Example Training Record . | Common Core Area | Skill/Competency | Training | Date | . | Computing | Programming | I have learnt how to use PyTorch following the Machine Learning course and applied it to a small data set. | 01/11/20 | . | Computing | Software Development and Version Control | I was introduced to the use of Github as part of the Turing course and have been routinely using it to store my code updates for the covid-19 project. | 15 October 2020 | . | Probability &amp; Statistics | Bayesian Statistics | I have studied Bayesian Statistics as part of my pre-reading for the ML course. I will now attempt to incorporate it as part of my covid-19 project work. | 30 October 2020 | . | Probability &amp; Statistics | Likelihood-based inference | Peter Diggle gave a lecture on likelihood-based inference. I read about likelihood-based inference for GLMs to understand how to perform ordinal regression for the risk prediction workshop. | 7 October 2020 | . | Ethics | GDPR | Attended training seminar on GDPR at home university. | 17 December 2020 | . ",
     "url": "http://localhost:4000/course_docs/programme/trainingrecord.html",
     "relUrl": "/course_docs/programme/trainingrecord.html"
-  },"81": {
+  },"86": {
     "doc": "Year 1",
     "title": "Year 1 Training Programme",
     "content": " ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#year-1-training-programme",
     "relUrl": "/course_docs/programme/year1.html#year-1-training-programme"
-  },"82": {
+  },"87": {
     "doc": "Year 1",
     "title": "Table of contents",
     "content": ". | Remote meetings | Induction | Common Core | Immersions | Mini-projects | Choosing a PhD project and supervisory team | Assessment | . ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#table-of-contents",
     "relUrl": "/course_docs/programme/year1.html#table-of-contents"
-  },"83": {
+  },"88": {
     "doc": "Year 1",
     "title": "Remote meetings",
     "content": "All training events during October to December 2020 will be run remotely, using Zoom. We are hoping to be able to run some residential training events during the first half of 2021, depending on the progress of the Covid-19 epidemic. At all times, we will follow the current regulations and advice to ensure the safety of all participants. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#remote-meetings",
     "relUrl": "/course_docs/programme/year1.html#remote-meetings"
-  },"84": {
+  },"89": {
     "doc": "Year 1",
     "title": "Induction",
     "content": "The two-day induction meeting 28 and 29 September 2020 is an opportunity for all programme staff and students to meet each other, albeit virtually. It will cover a range of scientific and administrative matters, including overviews of HDRUK’s priority research themes and data-resources, and how to make the most of students’ opportunities to connect with like-minded students, across the programme and on other programmes within their home unversities. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#induction",
     "relUrl": "/course_docs/programme/year1.html#induction"
-  },"85": {
+  },"90": {
     "doc": "Year 1",
     "title": "Common Core",
     "content": "The Common Core is a student-led “living” syllabus that consists of key knowledge, skills and competencies that should be part of the repertoire of expertise for doctoral research health data scientists. It is split into six components and we have provided some introductory guidance in the following descriptions: . 1. Computing 2. Probability &amp; Statistics 3. Biology 4. Reproducible Research 5. Ethics 6. Team Science and Communication . During your first year, your cohort will undertake an exercise to build and construct this syllabus to reflect your own training needs and aspirations. The model you develop will be inherited by the next cohort and we hope to evolve a syllabus that reflects the ever-changing capability requirements of this field. You will use this framework to continually update your own personal evidence-based training record. The intention is for you to reflect on the training provided and to understand how their experiences align with the Common Core. This is not intended to be a “tick box” exercise. The training record will form part of the progress review at the end of Year 1. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#common-core",
     "relUrl": "/course_docs/programme/year1.html#common-core"
-  },"86": {
+  },"91": {
     "doc": "Year 1",
     "title": "Immersions",
     "content": "The aim of immersions, which typically cover several days of intensive work, is to provide students with a deep insight to research activities at each of our university partners and how these align with HDRUK’s national health data science research priorities. Each immersion will contain technical training and cohort building activities. We hope students will use the immersions to develop ideas for cross-site PhD research projects in Years 2-4. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#immersions",
     "relUrl": "/course_docs/programme/year1.html#immersions"
-  },"87": {
+  },"92": {
     "doc": "Year 1",
     "title": "Mini-projects",
     "content": "Students will undertake two mini-projects to develop their experience of working on substantive health science projects whose solutions require the application of advanced quantitative methods. The Covid-19 Challenge project will occupy roughly half of each student’s time from November 2020 to January 2021 inclusive, after which we will organise an event at which students can present their findings to the wider group. Each project will be supervised by a member of the programme staff and the data-owner. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#mini-projects",
     "relUrl": "/course_docs/programme/year1.html#mini-projects"
-  },"88": {
+  },"93": {
     "doc": "Year 1",
     "title": "Choosing a PhD project and supervisory team",
     "content": "Details regarding choosing a PhD project and supervisory team are given here. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#choosing-a-phd-project-and-supervisory-team",
     "relUrl": "/course_docs/programme/year1.html#choosing-a-phd-project-and-supervisory-team"
-  },"89": {
+  },"94": {
     "doc": "Year 1",
     "title": "Assessment",
     "content": "Details of the Year 1 assessment are given here. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#assessment",
     "relUrl": "/course_docs/programme/year1.html#assessment"
-  },"90": {
+  },"95": {
     "doc": "Year 1",
     "title": "Year 1",
     "content": " ",
     "url": "http://localhost:4000/course_docs/programme/year1.html",
     "relUrl": "/course_docs/programme/year1.html"
-  },"91": {
+  },"96": {
     "doc": "Year 2-4",
     "title": "Year 2-4 Training Programme",
     "content": " ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#year-2-4-training-programme",
     "relUrl": "/course_docs/programme/year24.html#year-2-4-training-programme"
-  },"92": {
+  },"97": {
     "doc": "Year 2-4",
     "title": "Table of contents",
     "content": ". At the start of Year 2, you will begin your three-year doctoral research work based at your home university. Your research activities will be bespoke to your chosen research topic and approach. Our programme will continue to support you through this period with further training opportunities including our Leadership Training course. ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#table-of-contents",
     "relUrl": "/course_docs/programme/year24.html#table-of-contents"
-  },"93": {
+  },"98": {
     "doc": "Year 2-4",
     "title": "Year 2-4",
     "content": " ",
     "url": "http://localhost:4000/course_docs/programme/year24.html",
     "relUrl": "/course_docs/programme/year24.html"
-  },"94": {
+  },"99": {
     "doc": "Student Handbook",
     "title": "Student Handbook",
     "content": "# Student Handbook *This is a student handbook for the HDRUK-Turing PhD Programme in Health Data Science. Information contained within here is only appropriate to students registered on the course.* ## Contents [**Introduction**](/course_docs/introduction.html) A word from the Directors about the programme, its mission and our expectations of our students. [**Programme Details**](/course_docs/programme/programme.html) Detailed information about the programme and its training elements. [**Staff**](/course_docs/staff.html) Information about the people who run the programme. [**Choosing your PhD**](/course_docs/phd-choice.html) Details about the PhD project selection process. [**Progression**](/course_docs/progression.html) Requirements that you will need to maintain during your PhD. [**Resources**](/course_docs/resources.html) Details about the resources available to you for your research and training. [**Administrative Matters**](/course_docs/admin.html) Information about the administrative support available to you. [**Student Support**](/course_docs/support.html) Details about how we will try to support you during your studies. ",
