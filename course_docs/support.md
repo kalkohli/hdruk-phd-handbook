@@ -23,7 +23,7 @@ After you have chosen your main PhD research topic and supervisory team at the e
 
 ## Support from us
 
-Our students will also have support external to their university via the programme. This could be provided by members of the Programme Operations Team or members of the Executive Board not at your University.
+Our students will also have support external to their university via the programme. This could be provided by members of the Programme Operations Team or members of the Executive Board not at your University.  Please refer to the Points of Contact document if you are unsure who is the contact point for the type of support you require.
 
 ### The Directors
 
