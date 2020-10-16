@@ -64,13 +64,10 @@ You should also join our dedicated Slack channel, for HDR UK PhD students, to di
 
 Brand guidelines and HDR UK logo are available for download [here](https://www.hdruk.ac.uk/about-us/our-strategy/policies/brandstyleguide/)
 
-## GDPR Privacy Statement
+## PhD Student Privacy Notice
+This privacy notice provides you with information about how Health Data Research UK collects and processes your personal data as a student participating in the HDR UK Turing Wellcome PhD Programme in Health Data Science.
 
-The General Data Protection Regulation sets out rules on data protection and the legal requirements that must be satisfied by HDR UK and our students in relation to obtaining, handling, using, processing, storing transferring and destroying data. 
-
-HDR UK have certain data protection obligations, for the fair and lawful processing of data, those being, informing you of the personal data we collect, how we collect it, the legal basis for collecting and processing this data and the period for which we retain this data for.
-
-Please familiarise yourself with the GDPR Privacy Statement available in Box.
+Please familiarise yourself with the PhD Student Privacy Statement available in the Student Area in Box.
 
 ## Our commitment to Equality and Diversity
 
